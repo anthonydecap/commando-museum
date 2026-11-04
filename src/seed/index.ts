@@ -62,7 +62,7 @@ const images = {
 const settings = document("settings", null, {
   site_name: "Commando Museum",
   tagline: "The history of the Belgian Commandos since 1942",
-  motto: "",
+  motto: "United We Conquer",
   announcement: "Open on Saturdays from 13:00 to 18:00 · by appointment only: +32 474 18 56 18",
   announcement_link: doc("page", "visit", "Plan your visit"),
   navigation: [
@@ -142,7 +142,7 @@ const home = document("page", "home", {
   slices: [
     slice("hero", {
       eyebrow: "Commando Museum · Flawinne",
-      title: "The Green Beret",
+      title: "United We Conquer",
       subtitle: "Belgian Commandos since 1942",
       lead: rt(
         "From the 4th Troop of No. 10 Inter-Allied Commando to the 2nd Commando Battalion: the history of the Belgian Commandos, told inside the barracks where they serve today.",
@@ -154,7 +154,7 @@ const home = document("page", "home", {
     }),
     slice("marquee", {
       words:
-        "4th Troop / Achnacarry / Green Beret / Béret Vert / Groene Baret / Walcheren / Para-Commando / Kamina / Stanleyville / Kolwezi / Somalia / Kigali / Flawinne",
+        "United We Conquer / 4th Troop / Achnacarry / Green Beret / Béret Vert / Groene Baret / Walcheren / Para-Commando / Kamina / Stanleyville / Kolwezi / Somalia / Kigali / Flawinne",
     }),
     slice("intro_statement", {
       eyebrow: "Since 1980",
