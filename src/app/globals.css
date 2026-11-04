@@ -1,0 +1,351 @@
+@import "tailwindcss";
+
+/*
+ * Commando Museum design system (sister site of the Pegasus Museum).
+ * Military slate, a sand/khaki secondary tone, a warm archival paper tone for
+ * history, and the green of the commando beret as the single accent colour.
+ * The `teal` tokens keep their name from the shared design system but hold sand tones.
+ */
+
+@theme {
+  --color-ink: #101517;
+  --color-slate: #1b2225;
+  --color-teal: #7a6540;
+  --color-teal-soft: #d4c096;
+  --color-fog: #e5e6e3;
+  --color-paper: #f4f2ed;
+  --color-sand: #e7e0d1;
+  --color-sand-deep: #cfc4ae;
+  --color-beret: #224736;
+  --color-beret-deep: #173226;
+  --color-beret-light: #7fbf99;
+  --color-muted: #5d6669;
+
+  --font-display: var(--font-oswald), "Arial Narrow", sans-serif;
+  --font-sans: var(--font-plex-sans), system-ui, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, monospace;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+
+  --breakpoint-xs: 30rem;
+}
+
+/* `text-accent` etc. follow the surrounding background: beret green on light, lighter green on dark. */
+@theme inline {
+  --color-accent: var(--accent);
+}
+
+:root {
+  --accent: var(--color-beret);
+}
+.bg-ink,
+.bg-slate,
+.bg-teal,
+.on-dark {
+  --accent: var(--color-beret-light);
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    scroll-behavior: smooth;
+    scroll-padding-top: 6rem;
+  }
+
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: 1.0625rem;
+    line-height: 1.65;
+  }
+
+  ::selection {
+    background: var(--color-beret);
+    color: white;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  .container-x {
+    width: 100%;
+    max-width: 88rem;
+    margin-inline: auto;
+    padding-inline: 1.25rem;
+  }
+  @media (min-width: 48rem) {
+    .container-x {
+      padding-inline: 2.5rem;
+    }
+  }
+
+  .display {
+    font-family: var(--font-display);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: -0.01em;
+    line-height: 0.92;
+  }
+
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  .eyebrow::before {
+    content: "";
+    width: 1.75rem;
+    height: 2px;
+    background: var(--accent);
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    min-height: 3.25rem;
+    padding: 0 1.5rem;
+    font-family: var(--font-display);
+    font-size: 0.95rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition:
+      background-color 0.25s,
+      color 0.25s,
+      border-color 0.25s,
+      transform 0.25s var(--ease-out-expo);
+  }
+  .btn svg {
+    transition: transform 0.35s var(--ease-out-expo);
+  }
+  .btn:hover svg {
+    transform: translate(3px, -3px);
+  }
+  /* Stencil-cut corner on solid buttons, like a marking plate. */
+  .btn-primary {
+    clip-path: polygon(0 0, calc(100% - 0.75rem) 0, 100% 0.75rem, 100% 100%, 0 100%);
+    background: var(--color-beret);
+    color: white;
+  }
+  .btn-primary:hover {
+    background: var(--color-beret-deep);
+  }
+  .btn-ghost {
+    border: 1px solid currentColor;
+  }
+  .btn-ghost:hover {
+    background: currentColor;
+  }
+  .btn-ghost:hover > span {
+    color: var(--btn-ghost-hover, var(--color-ink));
+  }
+  .btn-ghost:hover > svg {
+    color: var(--btn-ghost-hover, var(--color-ink));
+  }
+
+  .link-arrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-family: var(--font-display);
+    font-size: 0.95rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 0.25rem;
+  }
+  .link-arrow svg {
+    transition: transform 0.35s var(--ease-out-expo);
+  }
+  .link-arrow:hover svg {
+    transform: translateX(4px);
+  }
+
+  /* Long-form text */
+  .prose-museum {
+    max-width: 42rem;
+  }
+  .prose-museum > * + * {
+    margin-top: 1.25em;
+  }
+  .prose-museum h2 {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1.75rem;
+    line-height: 1.1;
+    margin-top: 2.25em;
+  }
+  .prose-museum h3 {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1.35rem;
+    margin-top: 1.75em;
+  }
+  .prose-museum a {
+    text-decoration: underline;
+    text-decoration-color: var(--accent);
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 2px;
+  }
+  .prose-museum a:hover {
+    color: var(--accent);
+  }
+  .prose-museum ul,
+  .prose-museum ol {
+    padding-left: 0;
+    list-style: none;
+  }
+  .prose-museum li {
+    position: relative;
+    padding-left: 1.75rem;
+  }
+  .prose-museum li + li {
+    margin-top: 0.5em;
+  }
+  .prose-museum ul > li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.8em;
+    width: 0.9rem;
+    height: 2px;
+    background: var(--accent);
+  }
+  .prose-museum ol {
+    counter-reset: item;
+  }
+  .prose-museum ol > li::before {
+    counter-increment: item;
+    content: counter(item, decimal-leading-zero);
+    position: absolute;
+    left: 0;
+    font-family: var(--font-mono);
+    font-size: 0.8em;
+    color: var(--accent);
+  }
+  .prose-museum strong {
+    font-weight: 600;
+  }
+
+  /* Line drawings of the Fairbairn-Sykes commando knife, tinted with currentColor */
+  .knife-lines {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background-color: currentColor;
+    mask-image: url("/knife.svg");
+    mask-size: cover;
+    mask-position: center;
+    -webkit-mask-image: url("/knife.svg");
+    -webkit-mask-size: cover;
+    -webkit-mask-position: center;
+  }
+
+  .grain::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.07;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+}
+
+/* Scroll reveal */
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(1.5rem);
+  transition:
+    opacity 0.9s var(--ease-out-expo),
+    transform 0.9s var(--ease-out-expo);
+  transition-delay: var(--reveal-delay, 0ms);
+}
+[data-reveal="visible"] {
+  opacity: 1;
+  transform: none;
+}
+.no-js [data-reveal] {
+  opacity: 1;
+  transform: none;
+}
+
+/* Hero entrance */
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(2rem);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.rise {
+  animation: rise 1.1s var(--ease-out-expo) both;
+  animation-delay: var(--rise-delay, 0ms);
+}
+
+@keyframes slow-zoom {
+  from {
+    transform: scale(1.12);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.slow-zoom {
+  animation: slow-zoom 2.6s var(--ease-out-expo) both;
+}
+
+@keyframes marquee {
+  to {
+    transform: translateX(-50%);
+  }
+}
+.marquee-track {
+  animation: marquee 60s linear infinite;
+}
+
+@keyframes drop {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+.scroll-line::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--accent);
+  animation: drop 2.2s var(--ease-out-expo) infinite;
+}

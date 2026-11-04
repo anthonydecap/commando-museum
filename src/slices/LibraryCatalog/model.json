@@ -1,0 +1,30 @@
+{
+  "id": "library_catalog",
+  "type": "SharedSlice",
+  "name": "LibraryCatalog",
+  "description": "Searchable catalogue of the museum library (data in src/data/library.json)",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Searchable catalogue of the museum library",
+      "imageUrl": "",
+      "primary": {
+        "eyebrow": { "type": "Text", "config": { "label": "Eyebrow", "placeholder": "" } },
+        "title": { "type": "Text", "config": { "label": "Title", "placeholder": "" } },
+        "intro": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Intro",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em,hyperlink"
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

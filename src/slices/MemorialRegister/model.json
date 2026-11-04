@@ -1,0 +1,63 @@
+{
+  "id": "memorial_register",
+  "type": "SharedSlice",
+  "name": "MemorialRegister",
+  "description": "One year of the In Memoriam register",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "One year of the In Memoriam register",
+      "imageUrl": "",
+      "primary": {
+        "year": {
+          "type": "Text",
+          "config": {
+            "label": "Year",
+            "placeholder": "2026"
+          }
+        },
+        "entries": {
+          "type": "Group",
+          "config": {
+            "label": "Entries",
+            "repeat": true,
+            "fields": {
+              "member_number": {
+                "type": "Text",
+                "config": {
+                  "label": "Member number",
+                  "placeholder": ""
+                }
+              },
+              "name": {
+                "type": "Text",
+                "config": {
+                  "label": "Name",
+                  "placeholder": ""
+                }
+              },
+              "born": {
+                "type": "Text",
+                "config": {
+                  "label": "Born",
+                  "placeholder": ""
+                }
+              },
+              "died": {
+                "type": "Text",
+                "config": {
+                  "label": "Died",
+                  "placeholder": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

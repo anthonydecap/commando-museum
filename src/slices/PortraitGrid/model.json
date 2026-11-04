@@ -1,0 +1,80 @@
+{
+  "id": "portrait_grid",
+  "type": "SharedSlice",
+  "name": "PortraitGrid",
+  "description": "Grid of portraits with rank, name and period",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Grid of portraits with rank, name and period",
+      "imageUrl": "",
+      "primary": {
+        "eyebrow": {
+          "type": "Text",
+          "config": {
+            "label": "Eyebrow",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "intro": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Intro",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em,hyperlink"
+          }
+        },
+        "people": {
+          "type": "Group",
+          "config": {
+            "label": "People",
+            "repeat": true,
+            "fields": {
+              "image": {
+                "type": "Image",
+                "config": {
+                  "label": "Portrait",
+                  "constraint": {},
+                  "thumbnails": []
+                }
+              },
+              "rank": {
+                "type": "Text",
+                "config": {
+                  "label": "Rank",
+                  "placeholder": "Lt Col"
+                }
+              },
+              "name": {
+                "type": "Text",
+                "config": {
+                  "label": "Name",
+                  "placeholder": ""
+                }
+              },
+              "period": {
+                "type": "Text",
+                "config": {
+                  "label": "Period",
+                  "placeholder": "1952 \u2013 1956"
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

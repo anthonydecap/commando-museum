@@ -1,0 +1,24 @@
+{
+ "fr-be": {
+  "history": "histoire",
+  "origin-of-the-word-commando": "origine-du-mot-commando",
+  "creation-of-the-belgian-commandos": "creation-des-commandos-belges",
+  "second-world-war": "la-guerre-40-45",
+  "post-war-period": "l-immediat-apres-guerre",
+  "para-commando-regiment": "regiment-para-commando",
+  "african-period": "la-periode-africaine",
+  "from-1962-to-today": "de-1962-a-nos-jours",
+  "in-memoriam": "in-memoriam"
+ },
+ "nl-be": {
+  "history": "geschiedenis",
+  "origin-of-the-word-commando": "oorsprong-van-het-woord-commando",
+  "creation-of-the-belgian-commandos": "oprichting-van-de-belgische-commandos",
+  "second-world-war": "de-oorlog-40-45",
+  "post-war-period": "de-terugkeer-en-de-naoorlogse-periode",
+  "para-commando-regiment": "regiment-para-commando",
+  "african-period": "de-afrikaanse-periode",
+  "from-1962-to-today": "vanaf-1962-tot-op-heden",
+  "in-memoriam": "in-memoriam"
+ }
+}

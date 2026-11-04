@@ -1,0 +1,92 @@
+{
+  "id": "document_list",
+  "type": "SharedSlice",
+  "name": "DocumentList",
+  "description": "Downloadable documents, e.g. newsletters",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Downloadable documents, e.g. newsletters",
+      "imageUrl": "",
+      "primary": {
+        "eyebrow": {
+          "type": "Text",
+          "config": {
+            "label": "Eyebrow",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "intro": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Intro",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em,hyperlink"
+          }
+        },
+        "documents": {
+          "type": "Group",
+          "config": {
+            "label": "Documents",
+            "repeat": true,
+            "fields": {
+              "title": {
+                "type": "Text",
+                "config": {
+                  "label": "Title",
+                  "placeholder": ""
+                }
+              },
+              "meta": {
+                "type": "Text",
+                "config": {
+                  "label": "Date or label",
+                  "placeholder": ""
+                }
+              },
+              "link_1": {
+                "type": "Link",
+                "config": {
+                  "label": "Link 1",
+                  "allowText": true,
+                  "allowTargetBlank": true,
+                  "select": null
+                }
+              },
+              "link_2": {
+                "type": "Link",
+                "config": {
+                  "label": "Link 2",
+                  "allowText": true,
+                  "allowTargetBlank": true,
+                  "select": null
+                }
+              },
+              "link_3": {
+                "type": "Link",
+                "config": {
+                  "label": "Link 3",
+                  "allowText": true,
+                  "allowTargetBlank": true,
+                  "select": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "news_list",
+  "type": "SharedSlice",
+  "name": "NewsList",
+  "description": "Latest news posts",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "eyebrow": {
+          "type": "Text",
+          "config": {
+            "label": "Eyebrow",
+            "placeholder": "Small label above the title"
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "limit": {
+          "type": "Number",
+          "config": {
+            "label": "Number of posts (0 = all)"
+          }
+        },
+        "link": {
+          "type": "Link",
+          "config": {
+            "label": "View all link",
+            "allowText": true,
+            "allowTargetBlank": true,
+            "select": null
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

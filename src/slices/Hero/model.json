@@ -1,0 +1,131 @@
+{
+  "id": "hero",
+  "type": "SharedSlice",
+  "name": "Hero",
+  "description": "Opening section of a page",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Full-bleed",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Big photo header with motto-style title. Use on the homepage.",
+      "imageUrl": "",
+      "primary": {
+        "eyebrow": {
+          "type": "Text",
+          "config": {
+            "label": "Eyebrow",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": "Large first line"
+          }
+        },
+        "subtitle": {
+          "type": "Text",
+          "config": {
+            "label": "Subtitle",
+            "placeholder": "Smaller second line"
+          }
+        },
+        "lead": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Lead",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em,hyperlink"
+          }
+        },
+        "image": {
+          "type": "Image",
+          "config": {
+            "label": "Background image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "image_credit": {
+          "type": "Text",
+          "config": {
+            "label": "Image credit",
+            "placeholder": ""
+          }
+        },
+        "primary_link": {
+          "type": "Link",
+          "config": {
+            "label": "Primary button",
+            "allowText": true,
+            "allowTargetBlank": true,
+            "select": null
+          }
+        },
+        "secondary_link": {
+          "type": "Link",
+          "config": {
+            "label": "Secondary button",
+            "allowText": true,
+            "allowTargetBlank": true,
+            "select": null
+          }
+        }
+      },
+      "items": {}
+    },
+    {
+      "id": "page",
+      "name": "Page header",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Compact header for inner pages.",
+      "imageUrl": "",
+      "primary": {
+        "eyebrow": {
+          "type": "Text",
+          "config": {
+            "label": "Eyebrow",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "lead": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Lead",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em,hyperlink"
+          }
+        },
+        "image": {
+          "type": "Image",
+          "config": {
+            "label": "Image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "image_credit": {
+          "type": "Text",
+          "config": {
+            "label": "Image credit",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

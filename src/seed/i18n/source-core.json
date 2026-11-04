@@ -1,0 +1,3094 @@
+[
+ {
+  "where": "settings:settings:site_name",
+  "text": "Commando Museum"
+ },
+ {
+  "where": "settings:settings:tagline",
+  "text": "The history of the Belgian Commandos since 1942"
+ },
+ {
+  "where": "settings:settings:announcement",
+  "text": "Open on Saturdays from 13:00 to 18:00 · by appointment only: +32 474 18 56 18"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "Plan your visit"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "The Museum"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "History"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "Units"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "Collection"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "Virtual tour"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "Visit"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "Support"
+ },
+ {
+  "where": "settings:settings:footer_intro",
+  "text": "Since 1980 the Commando Museum has told the story of the Belgian Commandos, from the first volunteers in Great Britain in 1942 to the present day. It is located inside the barracks of the 2nd Commando Battalion in Flawinne and is run entirely by volunteers."
+ },
+ {
+  "where": "settings:settings:address",
+  "text": "**« Musée des Commandos – Museum der Commando's » asbl**"
+ },
+ {
+  "where": "settings:settings:address",
+  "text": "Caserne Sous-Lieutenant Thibaut"
+ },
+ {
+  "where": "settings:settings:address",
+  "text": "Rue Joseph Durieux 80"
+ },
+ {
+  "where": "settings:settings:address",
+  "text": "5020 Namur (Flawinne), Belgium"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "The team"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "Documentation centre"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "Latest acquisitions"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "The Commando Dagger"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "Shop"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "Photos and videos"
+ },
+ {
+  "where": "settings:settings:link",
+  "text": "Links"
+ },
+ {
+  "where": "settings:settings:meta_description",
+  "text": "The Commando Museum in Flawinne (Namur) tells the story of the Belgian Commandos since 1942: the 4th Troop, the Para-Commando Regiment, the 2nd Commando Battalion and every unit that wore the green beret. Free entry, by appointment."
+ },
+ {
+  "where": "settings:settings:alt",
+  "text": "Mannequins of Second World War commandos paddling a Goatley folding assault boat in the museum"
+ },
+ {
+  "where": "page:home:title",
+  "text": "Home"
+ },
+ {
+  "where": "page:home:eyebrow",
+  "text": "Commando Museum · Flawinne"
+ },
+ {
+  "where": "page:home:title",
+  "text": "The Green Beret"
+ },
+ {
+  "where": "page:home:subtitle",
+  "text": "Belgian Commandos since 1942"
+ },
+ {
+  "where": "page:home:lead",
+  "text": "From the 4th Troop of No. 10 Inter-Allied Commando to the 2nd Commando Battalion: the history of the Belgian Commandos, told inside the barracks where they serve today."
+ },
+ {
+  "where": "page:home:image_credit",
+  "text": "The Goatley assault boat, room 3C"
+ },
+ {
+  "where": "page:home:link",
+  "text": "Take the virtual tour"
+ },
+ {
+  "where": "page:home:words",
+  "text": "4th Troop / Achnacarry / Green Beret / Béret Vert / Groene Baret / Walcheren / Para-Commando / Kamina / Stanleyville / Kolwezi / Somalia / Kigali / Flawinne"
+ },
+ {
+  "where": "page:home:eyebrow",
+  "text": "Since 1980"
+ },
+ {
+  "where": "page:home:statement",
+  "text": "Every unit of the Belgian army that has ever proudly worn **the green beret of the Commandos** is represented here."
+ },
+ {
+  "where": "page:home:body",
+  "text": "The museum was created in 1980 on the initiative of Lieutenant-General Pierre Roman, Chief of Staff of the Land Force and one of the very first Belgian commando officers in 1942. Modest at first, it now fills some twenty rooms and keeps growing thanks to the gifts of commandos and their families."
+ },
+ {
+  "where": "page:home:label",
+  "text": "First Belgian commando unit formed in Britain"
+ },
+ {
+  "where": "page:home:label",
+  "text": "Museum founded"
+ },
+ {
+  "where": "page:home:label",
+  "text": "Rooms, in chronological and thematic order"
+ },
+ {
+  "where": "page:home:label",
+  "text": "Entry. Always free."
+ },
+ {
+  "where": "page:home:eyebrow",
+  "text": "Explore"
+ },
+ {
+  "where": "page:home:title",
+  "text": "Where do you want to start?"
+ },
+ {
+  "where": "page:home:alt",
+  "text": "Replica of the Commando Memorial at Spean Bridge, Scotland, in the museum"
+ },
+ {
+  "where": "page:home:title",
+  "text": "From Achnacarry to today"
+ },
+ {
+  "where": "page:home:body",
+  "text": "How Belgian volunteers in wartime Britain became the commandos of the Para-Commando Regiment and the Special Operations Regiment."
+ },
+ {
+  "where": "page:home:link",
+  "text": "Read the history"
+ },
+ {
+  "where": "page:home:alt",
+  "text": "The command corner of the 2nd Commando Battalion in the room of honour"
+ },
+ {
+  "where": "page:home:title",
+  "text": "Every unit of the green beret"
+ },
+ {
+  "where": "page:home:body",
+  "text": "The 2nd Commando Battalion, the training centre and the disbanded units that carried the commando tradition."
+ },
+ {
+  "where": "page:home:link",
+  "text": "Discover the units"
+ },
+ {
+  "where": "page:home:alt",
+  "text": "A 105 mm howitzer of the Para-Commando Artillery Battery in the museum"
+ },
+ {
+  "where": "page:home:title",
+  "text": "Eighteen rooms, one story"
+ },
+ {
+  "where": "page:home:body",
+  "text": "Walk through the museum room by room, from the room of honour to the barrack room."
+ },
+ {
+  "where": "page:home:link",
+  "text": "Start the tour"
+ },
+ {
+  "where": "page:home:eyebrow",
+  "text": "27 July 1942 · Wales"
+ },
+ {
+  "where": "page:home:title",
+  "text": "The 4th Troop"
+ },
+ {
+  "where": "page:home:body",
+  "text": "In 1942, at the suggestion of the British, the Belgian government in London agreed to form a Belgian unit within No. 10 Inter-Allied Commando. The 4th Troop was created on 27 July 1942 under Reserve Captain Georges Danloy and settled in Abersoch, in Wales. With no barracks available, the men were billeted with local families."
+ },
+ {
+  "where": "page:home:body",
+  "text": "In September the troop moved to Achnacarry, in the Scottish Highlands, for the gruelling course that earned them the right to wear the green beret. Its first battle came on 13 December 1943 in Italy, in front of the Gustav Line: the first Belgian ground unit to fight again since the defeat of 1940."
+ },
+ {
+  "where": "page:home:caption",
+  "text": "Replica of the Commando Memorial at Spean Bridge, room 3B"
+ },
+ {
+  "where": "page:home:link",
+  "text": "Read how it began"
+ },
+ {
+  "where": "page:home:eyebrow",
+  "text": "In the spotlight"
+ },
+ {
+  "where": "page:home:title",
+  "text": "The Goatley assault boat"
+ },
+ {
+  "where": "page:home:body",
+  "text": "Commandos specialise in amphibious operations. During the war, and for years afterwards, they crossed rivers and reached beaches in the Goatley, a folding assault boat named after the British engineer who designed it."
+ },
+ {
+  "where": "page:home:body",
+  "text": "In February 1957 a Goatley capsized during a demonstration for General Norstad, NATO's Supreme Commander, and three men drowned. Although the boat itself was not to blame, it was withdrawn from training. The museum's Goatley is the only one in Belgium. It was bought thanks to a subscription supported by more than 660 members of the commando family."
+ },
+ {
+  "where": "page:home:alt",
+  "text": "The Goatley folding assault boat with its crew of mannequins"
+ },
+ {
+  "where": "page:home:caption",
+  "text": "The Goatley and its crew, room 3C"
+ },
+ {
+  "where": "page:home:link",
+  "text": "See room 3"
+ },
+ {
+  "where": "page:home:label",
+  "text": "Type"
+ },
+ {
+  "where": "page:home:value",
+  "text": "Folding assault boat (Mk III)"
+ },
+ {
+  "where": "page:home:label",
+  "text": "Named after"
+ },
+ {
+  "where": "page:home:value",
+  "text": "Its British designer, Goatley"
+ },
+ {
+  "where": "page:home:label",
+  "text": "In service"
+ },
+ {
+  "where": "page:home:value",
+  "text": "Second World War until 1957"
+ },
+ {
+  "where": "page:home:label",
+  "text": "In the museum"
+ },
+ {
+  "where": "page:home:value",
+  "text": "The only example in Belgium"
+ },
+ {
+  "where": "page:home:eyebrow",
+  "text": "The museum"
+ },
+ {
+  "where": "page:home:title",
+  "text": "More than a collection"
+ },
+ {
+  "where": "page:home:alt",
+  "text": "The green beret and decorations of Lieutenant-General Pierre Roman in a display case"
+ },
+ {
+  "where": "page:home:title",
+  "text": "Gifts that keep the museum growing"
+ },
+ {
+  "where": "page:home:body",
+  "text": "From Lieutenant-General Roman's beret to a carbine from the Korean War."
+ },
+ {
+  "where": "page:home:link",
+  "text": "See what's new"
+ },
+ {
+  "where": "page:home:alt",
+  "text": "Shelves of books and archive boxes in the museum's documentation centre"
+ },
+ {
+  "where": "page:home:title",
+  "text": "2,000 books, 90,000 photographs"
+ },
+ {
+  "where": "page:home:body",
+  "text": "Search the library catalogue and plan your research visit."
+ },
+ {
+  "where": "page:home:link",
+  "text": "Search the library"
+ },
+ {
+  "where": "page:home:alt",
+  "text": "Cover of The Commando Dagger no. 49"
+ },
+ {
+  "where": "page:home:kicker",
+  "text": "Magazine"
+ },
+ {
+  "where": "page:home:body",
+  "text": "The museum's own magazine, in French and Dutch."
+ },
+ {
+  "where": "page:home:link",
+  "text": "Read the latest issues"
+ },
+ {
+  "where": "page:home:title",
+  "text": "Saturdays, 13:00–18:00. By appointment. Free."
+ },
+ {
+  "where": "page:home:body",
+  "text": "The museum is inside an active barracks, so every visit is booked in advance. Groups of ten or more are welcome: book one month ahead."
+ },
+ {
+  "where": "page:home:alt",
+  "text": "Entrance of the Sous-Lieutenant Thibaut barracks in Flawinne, home of the 2nd Commando Battalion and the museum"
+ },
+ {
+  "where": "page:home:link",
+  "text": "Call +32 474 18 56 18"
+ },
+ {
+  "where": "page:home:link",
+  "text": "Practical information"
+ },
+ {
+  "where": "page:the-museum:meta_description",
+  "text": "Founded in 1980 by Lieutenant-General Pierre Roman, the Commando Museum in Flawinne illustrates the history of the Belgian Commandos since 1942 in some twenty rooms."
+ },
+ {
+  "where": "page:the-museum:title",
+  "text": "Origins and purpose"
+ },
+ {
+  "where": "page:the-museum:lead",
+  "text": "A museum founded by a commando of the first hour, kept alive by the commando family, and growing with every gift."
+ },
+ {
+  "where": "page:the-museum:alt",
+  "text": "Panoramic view of the Goatley boat and its crew of commando mannequins"
+ },
+ {
+  "where": "page:the-museum:title",
+  "text": "Founded by a commando of the first hour"
+ },
+ {
+  "where": "page:the-museum:body",
+  "text": "The Commando Museum was created in 1980 on the initiative of Lieutenant-General Pierre Roman, Chief of Staff of the Land Force and a commando lieutenant from the very beginning, in 1942."
+ },
+ {
+  "where": "page:the-museum:body",
+  "text": "It traces and illustrates the history of the Belgian Commandos from 1942, the year the first unit was formed in Great Britain, the 4th Troop of No. 10 Inter-Allied Commando, to the present day."
+ },
+ {
+  "where": "page:the-museum:alt",
+  "text": "Portrait of Lieutenant-General Pierre Roman, founder of the museum, in uniform with the green beret"
+ },
+ {
+  "where": "page:the-museum:caption",
+  "text": "Lieutenant-General Pierre Roman, Chief of Staff of the Land Force"
+ },
+ {
+  "where": "page:the-museum:quote",
+  "text": "All the units of the Belgian army that have ever proudly worn the green beret of the Commandos are represented here."
+ },
+ {
+  "where": "page:the-museum:eyebrow",
+  "text": "The collection"
+ },
+ {
+  "where": "page:the-museum:title",
+  "text": "Some twenty rooms, still growing"
+ },
+ {
+  "where": "page:the-museum:body",
+  "text": "Modest in its early days, the museum now occupies some twenty rooms and keeps evolving thanks to the gifts of the men and women who served."
+ },
+ {
+  "where": "page:the-museum:body",
+  "text": "The collections are presented chronologically and by theme: documents, equipment, uniforms, weapons, vehicles and personal souvenirs. Together they show the historical milestones of the Belgian Commandos and how they changed over time."
+ },
+ {
+  "where": "page:the-museum:body",
+  "text": "The museum helps to keep the commando traditions alive and to make the history of the Belgian Commandos known."
+ },
+ {
+  "where": "page:the-museum:eyebrow",
+  "text": "Inside the museum"
+ },
+ {
+  "where": "page:the-museum:title",
+  "text": "Find your way in"
+ },
+ {
+  "where": "page:the-museum:title",
+  "text": "Room by room"
+ },
+ {
+  "where": "page:the-museum:body",
+  "text": "Eighteen rooms, from the room of honour to the barrack room."
+ },
+ {
+  "where": "page:the-museum:alt",
+  "text": "The volunteer team of the Commando Museum in 2026"
+ },
+ {
+  "where": "page:the-museum:title",
+  "text": "Run by volunteers"
+ },
+ {
+  "where": "page:the-museum:body",
+  "text": "Meet the people who manage the museum, its archives and its shop."
+ },
+ {
+  "where": "page:the-museum:link",
+  "text": "Meet the team"
+ },
+ {
+  "where": "page:the-museum:title",
+  "text": "Library and photo archive"
+ },
+ {
+  "where": "page:the-museum:body",
+  "text": "More than 2,000 books and 90,000 photographs and videos."
+ },
+ {
+  "where": "page:the-museum:link",
+  "text": "Plan your research"
+ },
+ {
+  "where": "page:the-museum:title",
+  "text": "New in the collection"
+ },
+ {
+  "where": "page:the-museum:body",
+  "text": "Recent gifts from veterans, families and the Defence protocol service."
+ },
+ {
+  "where": "page:team:meta_title",
+  "text": "The team behind the museum"
+ },
+ {
+  "where": "page:team:meta_description",
+  "text": "The Commando Museum is run by a team of volunteers, most of them former commandos. Meet the team, read the statutes and the reports of the general assembly."
+ },
+ {
+  "where": "page:team:eyebrow",
+  "text": "The Museum · Management"
+ },
+ {
+  "where": "page:team:lead",
+  "text": "The museum is run entirely by volunteers, most of them former commandos, who look after the collection, the archives, the library and the shop."
+ },
+ {
+  "where": "page:team:image_credit",
+  "text": "The museum team, March 2026"
+ },
+ {
+  "where": "page:team:title",
+  "text": "Management team"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Richard Schepkens"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Managing director"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Patrick Maurer"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Deputy managing director · members and collection"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Jean-Marie Goedert"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Treasurer"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Guy Struyken"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Archivist"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Jean-Philippe Préaux"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Freddy Bouquelloen"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Archives, digitisation and multimedia"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Eric Goethals"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Document archives"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Gabriel Lafontaine"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Library and documentation"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Serge Squoquart"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Photo library"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Didier Binon"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Museum shop"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Louis Guldemont"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Logistics"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Léopold Gilles"
+ },
+ {
+  "where": "page:team:period",
+  "text": "The veteran of the team"
+ },
+ {
+  "where": "page:team:eyebrow",
+  "text": "The association"
+ },
+ {
+  "where": "page:team:title",
+  "text": "Statutes and reports"
+ },
+ {
+  "where": "page:team:intro",
+  "text": "The museum is run by the non-profit association « Musée des Commandos – Museum der Commando's ». Its statutes and the minutes of the general assembly are public."
+ },
+ {
+  "where": "page:team:title",
+  "text": "Statutes"
+ },
+ {
+  "where": "page:team:meta",
+  "text": "Revised 14 April 2023"
+ },
+ {
+  "where": "page:team:text",
+  "text": "Download (PDF)"
+ },
+ {
+  "where": "page:team:title",
+  "text": "General assembly 2025"
+ },
+ {
+  "where": "page:team:meta",
+  "text": "Minutes, 31 March 2025"
+ },
+ {
+  "where": "page:team:title",
+  "text": "General assembly 2024"
+ },
+ {
+  "where": "page:team:meta",
+  "text": "Minutes, 22 March 2024"
+ },
+ {
+  "where": "page:team:title",
+  "text": "Board report"
+ },
+ {
+  "where": "page:team:meta",
+  "text": "19 January 2026"
+ },
+ {
+  "where": "page:team:eyebrow",
+  "text": "In gratitude"
+ },
+ {
+  "where": "page:team:title",
+  "text": "Former team members"
+ },
+ {
+  "where": "page:team:intro",
+  "text": "The museum owes a great deal to the volunteers who came before."
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Guy Deudon"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Managing director until 1 April 2014"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Yves Rollin"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Vice-chairman · compiled the inventory"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Hubert Pauwels"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Editor of The Commando Dagger · secretary and translator"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Marcel Dimanche"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Archivist · created the first website"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Jacques Adam"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Board member"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Oscar Braeckman"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Joseph Leysen"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Translator"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Manuel Duchesne"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Archivist · photo library"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Raymond Peeters"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Webmaster and IT · † 21 January 2025"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Alexy Laykoff"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Board member, “the man with golden hands” · † 13 January 2020"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Jacques Ringlet"
+ },
+ {
+  "where": "page:team:period",
+  "text": "Editor of The Commando Dagger and archivist · † 13 November 2016"
+ },
+ {
+  "where": "page:team:alt",
+  "text": "Portrait of Philippe Scailquin"
+ },
+ {
+  "where": "page:team:period",
+  "text": "In the team from 1978 · room 6 bears his name · † 6 March 2006"
+ },
+ {
+  "where": "page:team:eyebrow",
+  "text": "Support the museum"
+ },
+ {
+  "where": "page:team:title",
+  "text": "Keep the story of the green beret alive"
+ },
+ {
+  "where": "page:team:body",
+  "text": "The museum is free and run by volunteers. Membership costs €15 a year and gives free access to the reading room of the documentation centre."
+ },
+ {
+  "where": "page:team:link",
+  "text": "Become a member"
+ },
+ {
+  "where": "page:team:link",
+  "text": "Visit the shop"
+ },
+ {
+  "where": "page:documentation-centre:meta_title",
+  "text": "Documentation centre and library"
+ },
+ {
+  "where": "page:documentation-centre:meta_description",
+  "text": "Search more than 2,000 books in the library of the Commando Museum and 90,000 photographs and videos. The reading room in Flawinne is open on Mondays by appointment."
+ },
+ {
+  "where": "page:documentation-centre:eyebrow",
+  "text": "The Museum · Research"
+ },
+ {
+  "where": "page:documentation-centre:lead",
+  "text": "A library of more than 2,000 books and a photo archive of over 90,000 images and videos about the Belgian Commandos and the Para-Commandos."
+ },
+ {
+  "where": "page:documentation-centre:eyebrow",
+  "text": "Reading room"
+ },
+ {
+  "where": "page:documentation-centre:intro",
+  "text": "Tell us what you are looking for before you come, so we can prepare your visit. Please announce your visit at least one week in advance, preferably by email to [bibliocdomus@gmail.com](mailto:bibliocdomus@gmail.com) (library) or [imagesmuscdo@gmail.com](mailto:imagesmuscdo@gmail.com) (photos and videos)."
+ },
+ {
+  "where": "page:documentation-centre:label",
+  "text": "Open"
+ },
+ {
+  "where": "page:documentation-centre:value",
+  "text": "Mondays from 09:00"
+ },
+ {
+  "where": "page:documentation-centre:note",
+  "text": "Except public holidays"
+ },
+ {
+  "where": "page:documentation-centre:label",
+  "text": "Appointment"
+ },
+ {
+  "where": "page:documentation-centre:note",
+  "text": "By appointment only"
+ },
+ {
+  "where": "page:documentation-centre:label",
+  "text": "Reader's card"
+ },
+ {
+  "where": "page:documentation-centre:value",
+  "text": "€5 per visit"
+ },
+ {
+  "where": "page:documentation-centre:note",
+  "text": "Free for members of the association"
+ },
+ {
+  "where": "page:documentation-centre:address",
+  "text": "Photographs are allowed in the reading room. Some documents are still under copyright: using them requires permission. Copies of photographs and videos require the approval of a museum officer."
+ },
+ {
+  "where": "page:documentation-centre:link",
+  "text": "Email the library"
+ },
+ {
+  "where": "page:documentation-centre:eyebrow",
+  "text": "Library"
+ },
+ {
+  "where": "page:documentation-centre:title",
+  "text": "Search the catalogue"
+ },
+ {
+  "where": "page:documentation-centre:intro",
+  "text": "More than 2,000 titles are already catalogued, and the list is updated as new gifts and acquisitions arrive. Found what you need? Contact us with your precise request. The shelf code tells us where to find the book."
+ },
+ {
+  "where": "page:documentation-centre:eyebrow",
+  "text": "Photo archive"
+ },
+ {
+  "where": "page:documentation-centre:title",
+  "text": "90,000 photographs and videos"
+ },
+ {
+  "where": "page:documentation-centre:intro",
+  "text": "The photo archive can be consulted or screened in the reading room. The classification chart shows how the collection is organised, so you can prepare your request."
+ },
+ {
+  "where": "page:documentation-centre:title",
+  "text": "Photo classification chart"
+ },
+ {
+  "where": "page:documentation-centre:meta",
+  "text": "February 2025"
+ },
+ {
+  "where": "page:documentation-centre:title",
+  "text": "Presentation of the library"
+ },
+ {
+  "where": "page:documentation-centre:meta",
+  "text": "General assembly, March 2024"
+ },
+ {
+  "where": "page:latest-acquisitions:meta_description",
+  "text": "Recent gifts to the Commando Museum: Lieutenant-General Roman's beret and decorations, an M1A1 carbine, a SAFN 1949 sniper rifle, an officers' mess archelle and more."
+ },
+ {
+  "where": "page:latest-acquisitions:eyebrow",
+  "text": "The Museum · Collection"
+ },
+ {
+  "where": "page:latest-acquisitions:lead",
+  "text": "The collection grows thanks to commandos, their families and friends of the museum. These are some of the most recent gifts, and where to find them."
+ },
+ {
+  "where": "page:latest-acquisitions:alt",
+  "text": "The Colt .45 pistol of Viscount Arthur de Jonghe"
+ },
+ {
+  "where": "page:latest-acquisitions:image_credit",
+  "text": "The Colt .45 of Viscount Arthur de Jonghe"
+ },
+ {
+  "where": "page:latest-acquisitions:eyebrow",
+  "text": "Room 2"
+ },
+ {
+  "where": "page:latest-acquisitions:title",
+  "text": "The beret and decorations of Lieutenant-General Roman"
+ },
+ {
+  "where": "page:latest-acquisitions:body",
+  "text": "On 2 July 2018 the family of Lieutenant-General Pierre Roman, founder of the museum, presented his beret and his honours to the Commando Museum."
+ },
+ {
+  "where": "page:latest-acquisitions:caption",
+  "text": "Beret and decorations of Lieutenant-General Pierre Roman"
+ },
+ {
+  "where": "page:latest-acquisitions:eyebrow",
+  "text": "Room 5 · Korea"
+ },
+ {
+  "where": "page:latest-acquisitions:title",
+  "text": "Two rifles from the Korean War era"
+ },
+ {
+  "where": "page:latest-acquisitions:intro",
+  "text": "The museum received a Winchester .30 M1A1 carbine with folding stock and wooden pistol grip, and a SAFN 1949 rifle with sniper scope. With them, the museum now holds every weapon used by the Commandos until 2000."
+ },
+ {
+  "where": "page:latest-acquisitions:alt",
+  "text": "Winchester .30 M1A1 carbine with folding stock"
+ },
+ {
+  "where": "page:latest-acquisitions:caption",
+  "text": "Winchester .30 M1A1 carbine"
+ },
+ {
+  "where": "page:latest-acquisitions:alt",
+  "text": "SAFN 1949 rifle with sniper scope"
+ },
+ {
+  "where": "page:latest-acquisitions:caption",
+  "text": "SAFN 1949 with sniper scope"
+ },
+ {
+  "where": "page:latest-acquisitions:eyebrow",
+  "text": "Room 19"
+ },
+ {
+  "where": "page:latest-acquisitions:title",
+  "text": "The archelle of the citadel officers' mess"
+ },
+ {
+  "where": "page:latest-acquisitions:body",
+  "text": "Two veterans of the 2nd Commando Battalion with a passion for flea markets, 1st Chief Corporals (ret.) Robert Cosse and Jean-Marie Florquin, found a magnificent archelle, a traditional wooden wall rack, in several pieces and gave it to the museum. Another veteran, Warrant Officer (ret.) Christian Fievet, partly restored it, and cabinetmaker Adelin Martin volunteered to finish the work."
+ },
+ {
+  "where": "page:latest-acquisitions:body",
+  "text": "Commandant (ret.) Deudon remembers it: “I am almost 84, and my memories take me back to 1957, 1958 and 1959, when I lived in the officers' mess at the citadel. You entered a hall with a staircase to the bedrooms, and then a second door that opened onto the bar. To the left of that door, I can still see this archelle!”"
+ },
+ {
+  "where": "page:latest-acquisitions:alt",
+  "text": "The restored wooden archelle from the officers' mess of the Citadel of Namur"
+ },
+ {
+  "where": "page:latest-acquisitions:caption",
+  "text": "The restored archelle"
+ },
+ {
+  "where": "page:latest-acquisitions:eyebrow",
+  "text": "Room 8 · Para-Commando Artillery Battery"
+ },
+ {
+  "where": "page:latest-acquisitions:title",
+  "text": "A shell case from the King's oath"
+ },
+ {
+  "where": "page:latest-acquisitions:body",
+  "text": "With the help of the Defence protocol service, the museum received a shell case from the salute fired by the Artillery Battalion when His Majesty King Philippe took the oath on 23 July 2013."
+ },
+ {
+  "where": "page:latest-acquisitions:alt",
+  "text": "Shell case from the gun salute for the swearing-in of King Philippe"
+ },
+ {
+  "where": "page:latest-acquisitions:caption",
+  "text": "Shell case from the royal salute, 23 July 2013"
+ },
+ {
+  "where": "page:latest-acquisitions:eyebrow",
+  "text": "Also new"
+ },
+ {
+  "where": "page:latest-acquisitions:title",
+  "text": "More recent gifts"
+ },
+ {
+  "where": "page:latest-acquisitions:alt",
+  "text": "Colt .45 pistol of Viscount Arthur de Jonghe"
+ },
+ {
+  "where": "page:latest-acquisitions:alt",
+  "text": "A Dom 410 radiation survey meter"
+ },
+ {
+  "where": "page:latest-acquisitions:caption",
+  "text": "Dom 410 radiation survey meter"
+ },
+ {
+  "where": "page:latest-acquisitions:alt",
+  "text": "Afghan authorities' coat, a Russian mortar and other equipment from Kunduz"
+ },
+ {
+  "where": "page:latest-acquisitions:caption",
+  "text": "“Afghan Authorities” coat, Russian mortar and equipment from the Kunduz mission, 2010"
+ },
+ {
+  "where": "page:latest-acquisitions:alt",
+  "text": "Mannequin with a British Type X parachute and a drop bag"
+ },
+ {
+  "where": "page:latest-acquisitions:caption",
+  "text": "Mannequin with a Type X parachute (UK) and a drop bag"
+ },
+ {
+  "where": "page:latest-acquisitions:alt",
+  "text": "Mannequin with a seat parachute for air transport and a reserve parachute"
+ },
+ {
+  "where": "page:latest-acquisitions:eyebrow",
+  "text": "Donations"
+ },
+ {
+  "where": "page:latest-acquisitions:title",
+  "text": "Do you have something for the museum?"
+ },
+ {
+  "where": "page:latest-acquisitions:body",
+  "text": "Uniforms, documents, photographs, equipment: every object can help tell the story of the Belgian Commandos. Contact us before you bring it."
+ },
+ {
+  "where": "page:latest-acquisitions:link",
+  "text": "Email the museum"
+ },
+ {
+  "where": "page:latest-acquisitions:link",
+  "text": "Contact details"
+ },
+ {
+  "where": "page:virtual-tour:meta_title",
+  "text": "Virtual tour of the museum"
+ },
+ {
+  "where": "page:virtual-tour:meta_description",
+  "text": "Walk through the Commando Museum room by room: the room of honour, the 4th Troop, Walcheren, Africa, the United Nations, vehicles, boats and the barrack room."
+ },
+ {
+  "where": "page:virtual-tour:eyebrow",
+  "text": "The Museum in detail"
+ },
+ {
+  "where": "page:virtual-tour:lead",
+  "text": "Eighteen rooms, in roughly chronological order: from the room of honour and the creation of the 4th Troop to the missions of recent years and a barrack room from the Citadel of Namur."
+ },
+ {
+  "where": "page:virtual-tour:eyebrow",
+  "text": "The rooms"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "Choose a room"
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "The command corner of the 2nd Commando Battalion"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 1"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "The room of honour"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "The commanders of the 2nd Commando Battalion, the fallen, Padre Corbisier and the founder, Baron Danloy."
+ },
+ {
+  "where": "page:virtual-tour:link",
+  "text": "Enter the room"
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "Map showing the places where the Belgian Commandos served"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "Journeys"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "From occupied Belgium to Britain, Korea and Central Africa: the commandos have always travelled."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "Display about the founders of the Belgian Commandos"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 3"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "The creation"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "Rooms 3A, 3B and 3C: the 4th Troop in Wales, Achnacarry and the Goatley boat."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "Submachine-gun magazines that stopped bullets aimed at Sergeant Annez de Taboada"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 4"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "The campaigns"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "Italy, Yugoslavia, Walcheren and Germany: the 4th Troop at war, 1943–1945."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "A canvas kayak"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 5"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "The post-war years"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "Back in Belgium: the Commando Regiment, Korea and the first parachutes."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "Display of equipment from humanitarian operations in Africa"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 6"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "Humanitarian operations"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "From Kamina to Kolwezi: the commandos in Africa, 1953–1991."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "Weapons captured during UN missions, including a Soviet 12.7 mm heavy machine gun"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 7"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "The United Nations"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "Somalia, Rwanda, Kosovo: the blue beret, and the ten commandos of Kigali."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "A 105 mm howitzer of the Para-Commando Artillery Battery"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 8"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "The development"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "New support units with the green beret, the 105 mm howitzers and training abroad."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "Minerva jeeps in the museum"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 9"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "Vehicles"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "The Minerva jeep, the first women commandos, and missions in Afghanistan and Lebanon."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "Model of the fisheries built on the river at Kisangani"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 10"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "Mission “Future”"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "Kisangani, 2004: the battalion's first return to Central Africa since Kigali."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "A RavAir supply drop container"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 11"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "AMF(L) and the C-119"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "NATO's mobile force and the Flying Boxcar, the commandos' jump aircraft until 1972."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "A five-man inflatable dinghy"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 12"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "Boating"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "From the Goatley to the Zodiac: the commandos on the water."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "Reconstruction of a command post with its radios"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 13"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "The command post"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "A field command post with its radios, including the famous AN/GRC-9."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "A 4.2-inch mortar in firing position"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 14"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "First-aid post and 4.2-inch mortar"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "A field first-aid post and a 4.2-inch mortar in firing position."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "Reconstruction of a German bunker on Walcheren"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 15"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "Walcheren"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "A German bunker and objects excavated on the battlefield of November 1944."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "A corridor lined with paintings by commandos"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 16"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "Illustrations"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "Paintings and collections made by commandos."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "An M56 individual tent"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 17"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "Field shelter"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "Individual tents from 1956 to 2000, and the Commando Regiment quay."
+ },
+ {
+  "where": "page:virtual-tour:alt",
+  "text": "Reconstruction of a barrack room with beds, lockers and a stove"
+ },
+ {
+  "where": "page:virtual-tour:kicker",
+  "text": "Room 18"
+ },
+ {
+  "where": "page:virtual-tour:title",
+  "text": "The barrack room"
+ },
+ {
+  "where": "page:virtual-tour:body",
+  "text": "A barrack room from the Citadel of Namur, with its stove and its cells."
+ },
+ {
+  "where": "page:tour-room-of-honour:title",
+  "text": "Room 1: The room of honour"
+ },
+ {
+  "where": "page:tour-room-of-honour:meta_title",
+  "text": "The room of honour · Virtual tour"
+ },
+ {
+  "where": "page:tour-room-of-honour:eyebrow",
+  "text": "Virtual tour · Room 1"
+ },
+ {
+  "where": "page:tour-room-of-honour:body",
+  "text": "Here you find the photographs of the commanding officers, the regimental sergeant majors and the corps corporals of the 2nd Commando Battalion, direct heir of the 4th Troop. There are the badges of all commando units, active or disbanded, the names of the commandos who died in action or on duty, and a corner dedicated to Padre L. Corbisier, the first chaplain of the Commandos."
+ },
+ {
+  "where": "page:tour-room-of-honour:body",
+  "text": "### The founder"
+ },
+ {
+  "where": "page:tour-room-of-honour:body",
+  "text": "Captain Georges Danloy, later Major General (ret.) Baron Danloy, founder of the Belgian Commandos, died on 19 October 1999. A large part of the room is devoted to him, and one side of the war memorial at the entrance of the barracks bears his name."
+ },
+ {
+  "where": "page:tour-room-of-honour:eyebrow",
+  "text": "To be seen"
+ },
+ {
+  "where": "page:tour-room-of-honour:title",
+  "text": "In this room"
+ },
+ {
+  "where": "page:tour-room-of-honour:alt",
+  "text": "The corner dedicated to Padre Corbisier"
+ },
+ {
+  "where": "page:tour-room-of-honour:caption",
+  "text": "The corner of Padre Corbisier, first chaplain of the Commandos"
+ },
+ {
+  "where": "page:tour-room-of-honour:alt",
+  "text": "The corner dedicated to Major General Baron Danloy"
+ },
+ {
+  "where": "page:tour-room-of-honour:caption",
+  "text": "The corner of Major General Baron Danloy"
+ },
+ {
+  "where": "page:tour-room-of-honour:alt",
+  "text": "The war memorial at the entrance of the barracks"
+ },
+ {
+  "where": "page:tour-room-of-honour:alt",
+  "text": "The commemorative plaque of the war memorial"
+ },
+ {
+  "where": "page:tour-room-of-honour:caption",
+  "text": "The commemorative plaque of the memorial"
+ },
+ {
+  "where": "page:tour-room-of-honour:eyebrow",
+  "text": "Next: room 2"
+ },
+ {
+  "where": "page:tour-room-of-honour:link",
+  "text": "Next room"
+ },
+ {
+  "where": "page:tour-room-of-honour:link",
+  "text": "All rooms"
+ },
+ {
+  "where": "page:tour-journeys:title",
+  "text": "Room 2: Journeys"
+ },
+ {
+  "where": "page:tour-journeys:meta_title",
+  "text": "Journeys · Virtual tour"
+ },
+ {
+  "where": "page:tour-journeys:eyebrow",
+  "text": "Virtual tour · Room 2"
+ },
+ {
+  "where": "page:tour-journeys:image_credit",
+  "text": "The places where the commandos served"
+ },
+ {
+  "where": "page:tour-journeys:body",
+  "text": "The Belgian Commandos have always travelled, and still do. Answering the call of the Belgian government in London, the founders reached Great Britain from all over the world, many of them after a long and dangerous journey from occupied Belgium through France, Spain or Portugal."
+ },
+ {
+  "where": "page:tour-journeys:body",
+  "text": "The units fought alongside the Allies from 1943 to 1945 and later carried out humanitarian operations for Belgium, the United Nations and NATO, mainly in Europe and Central Africa. Many commandos also joined the Belgian Volunteer Corps for Korea."
+ },
+ {
+  "where": "page:tour-journeys:eyebrow",
+  "text": "Next: room 3"
+ },
+ {
+  "where": "page:tour-the-creation:title",
+  "text": "Room 3: The creation"
+ },
+ {
+  "where": "page:tour-the-creation:meta_title",
+  "text": "The creation · Virtual tour"
+ },
+ {
+  "where": "page:tour-the-creation:eyebrow",
+  "text": "Virtual tour · Room 3"
+ },
+ {
+  "where": "page:tour-the-creation:image_credit",
+  "text": "The first commandos in training"
+ },
+ {
+  "where": "page:tour-the-creation:body",
+  "text": "**3A.** In 1942, at the suggestion of the British, the Belgian government in London agreed to form a Belgian unit within No. 10 Inter-Allied Commando. The 4th Troop was created on 27 July 1942 under Reserve Captain Georges Danloy and settled in Abersoch, in Wales. With no barracks, the men were billeted with local families, like the other commando troops. On display: the list of the first commandos in training."
+ },
+ {
+  "where": "page:tour-the-creation:body",
+  "text": "**3B.** In September the troop moved to Achnacarry, in Scotland, for the hard training that earned its members the green beret. On display: a replica of the Commando Memorial at Spean Bridge."
+ },
+ {
+  "where": "page:tour-the-creation:body",
+  "text": "**3C.** The Goatley, a folding boat used by the Commandos during the war and until 1957. In February 1957, during a demonstration for General Norstad (SACEUR), a boat capsized and three men drowned. Although the boat was not to blame, it was withdrawn from training. This example, the only one in Belgium, was acquired thanks to a subscription by more than 660 members of the commando family."
+ },
+ {
+  "where": "page:tour-the-creation:alt",
+  "text": "Replica of the Commando Memorial at Spean Bridge"
+ },
+ {
+  "where": "page:tour-the-creation:caption",
+  "text": "Replica of the Spean Bridge memorial"
+ },
+ {
+  "where": "page:tour-the-creation:alt",
+  "text": "The Goatley boat with its crew of mannequins"
+ },
+ {
+  "where": "page:tour-the-creation:caption",
+  "text": "The Goatley and its crew"
+ },
+ {
+  "where": "page:tour-the-creation:eyebrow",
+  "text": "Next: room 4"
+ },
+ {
+  "where": "page:tour-campaigns:title",
+  "text": "Room 4: The campaigns"
+ },
+ {
+  "where": "page:tour-campaigns:meta_title",
+  "text": "The campaigns · Virtual tour"
+ },
+ {
+  "where": "page:tour-campaigns:eyebrow",
+  "text": "Virtual tour · Room 4"
+ },
+ {
+  "where": "page:tour-campaigns:image_credit",
+  "text": "The magazines that saved Sergeant Annez de Taboada"
+ },
+ {
+  "where": "page:tour-campaigns:body",
+  "text": "On 13 December 1943, in Italy, in front of the Gustav Line near Monte Cassino, the 4th Troop became the first Belgian ground unit to fight again after the defeat of 1940."
+ },
+ {
+  "where": "page:tour-campaigns:body",
+  "text": "In March 1944 it was on the island of Vis in Yugoslavia, alongside Tito's partisans. Back in England in June, too late to take part in the landings, it joined the first assault wave from Ostend against the island of Walcheren on 1 November 1944. The island was taken after nine days of hard fighting."
+ },
+ {
+  "where": "page:tour-campaigns:body",
+  "text": "In April 1945 the 4th Troop was on a security mission in northern Germany, searching for Belgians who had worn the Nazi uniform. It arrested Major Hellebaut, chief of the Walloon Legion, who was sent back to Belgium under the guard of Major Danloy."
+ },
+ {
+  "where": "page:tour-campaigns:body",
+  "text": "On display: the submachine-gun magazines that saved Sergeant Annez de Taboada's life by stopping bullets like a flak jacket; a habit of a religious brotherhood from Montenero that let some men camouflage themselves in the snow; the camp bed and chair of Doctor F. Van Peperstraete, the unit's doctor; and the map measurer of the chief of the Walloon Legion."
+ },
+ {
+  "where": "page:tour-campaigns:body",
+  "text": "**Four commandos lost their lives in these campaigns:** Cpl M. Mairesse (Italy), Lt A. Deton (Italy), Lt A. Meny (Walcheren) and Cpl F. Dive (Walcheren)."
+ },
+ {
+  "where": "page:tour-campaigns:alt",
+  "text": "White habit of a religious brotherhood from Montenero used as snow camouflage"
+ },
+ {
+  "where": "page:tour-campaigns:caption",
+  "text": "Snow camouflage from Montenero"
+ },
+ {
+  "where": "page:tour-campaigns:alt",
+  "text": "Camp bed and chair of the unit's doctor"
+ },
+ {
+  "where": "page:tour-campaigns:caption",
+  "text": "The camp bed and chair of Doctor Van Peperstraete"
+ },
+ {
+  "where": "page:tour-campaigns:alt",
+  "text": "Map measurer that belonged to the chief of the Walloon Legion"
+ },
+ {
+  "where": "page:tour-campaigns:caption",
+  "text": "The map measurer of the chief of the Walloon Legion"
+ },
+ {
+  "where": "page:tour-campaigns:eyebrow",
+  "text": "Next: room 5"
+ },
+ {
+  "where": "page:tour-post-war:title",
+  "text": "Room 5: The post-war years"
+ },
+ {
+  "where": "page:tour-post-war:meta_title",
+  "text": "The post-war years · Virtual tour"
+ },
+ {
+  "where": "page:tour-post-war:eyebrow",
+  "text": "Virtual tour · Room 5"
+ },
+ {
+  "where": "page:tour-post-war:body",
+  "text": "In September 1945 the 4th Troop, renamed Commando Regiment in May, returned to Belgium and settled at Marche-les-Dames and the Citadel of Namur, and later also at Seilles."
+ },
+ {
+  "where": "page:tour-post-war:body",
+  "text": "- 1946: the Commando Regiment receives its standard."
+ },
+ {
+  "where": "page:tour-post-war:body",
+  "text": "- 1947: the Commando Training Centre is officially created."
+ },
+ {
+  "where": "page:tour-post-war:body",
+  "text": "- 1950: many commandos volunteer for Korea. The Commando Regiment trains the officers, and later the reinforcements, of the Belgian Volunteer Corps for Korea."
+ },
+ {
+  "where": "page:tour-post-war:body",
+  "text": "- 1951: creation of the Para-Commando Regiment, whose first commander is Lieutenant-Colonel Georges Danloy."
+ },
+ {
+  "where": "page:tour-post-war:body",
+  "text": "On display: a dummy machine gun that imitated the sound of firing and, thanks to a bicycle lamp in the barrel, the muzzle flash. Until the early 1960s the only training cartridges were “Bull Blank” rounds with a wooden tip."
+ },
+ {
+  "where": "page:tour-post-war:alt",
+  "text": "A later polyester kayak"
+ },
+ {
+  "where": "page:tour-post-war:caption",
+  "text": "A more recent polyester kayak"
+ },
+ {
+  "where": "page:tour-post-war:alt",
+  "text": "Equipment used at the Commando Training Centre"
+ },
+ {
+  "where": "page:tour-post-war:caption",
+  "text": "Equipment from the Training Centre"
+ },
+ {
+  "where": "page:tour-post-war:alt",
+  "text": "Two parachutes on display"
+ },
+ {
+  "where": "page:tour-post-war:caption",
+  "text": "Two parachutes recall the commandos' new airborne training"
+ },
+ {
+  "where": "page:tour-post-war:alt",
+  "text": "A dummy training machine gun"
+ },
+ {
+  "where": "page:tour-post-war:caption",
+  "text": "The dummy machine gun"
+ },
+ {
+  "where": "page:tour-post-war:eyebrow",
+  "text": "Next: room 6"
+ },
+ {
+  "where": "page:tour-humanitarian-operations:title",
+  "text": "Room 6: Humanitarian operations"
+ },
+ {
+  "where": "page:tour-humanitarian-operations:meta_title",
+  "text": "Humanitarian operations · Virtual tour"
+ },
+ {
+  "where": "page:tour-humanitarian-operations:eyebrow",
+  "text": "Virtual tour · Room 6"
+ },
+ {
+  "where": "page:tour-humanitarian-operations:image_credit",
+  "text": "Equipment from the humanitarian operations"
+ },
+ {
+  "where": "page:tour-humanitarian-operations:body",
+  "text": "1953 marks the start of the African adventure in the Belgian Congo, at Kamina, and later at Kitona and in Ruanda-Urundi. Independence of the colony marked the beginning of a series of humanitarian operations with the Commandos:"
+ },
+ {
+  "where": "page:tour-humanitarian-operations:body",
+  "text": "- 1960, in many places in the Congo. Three commandos were killed in ambushes by the Force Publique between Bunia and Mongbwalu: Cdo Delahaut, Cdo Hosselet and Cdo Sosnowski. Cdo Renard was murdered by the Congolese National Army in Kisenyi in January 1961."
+ },
+ {
+  "where": "page:tour-humanitarian-operations:body",
+  "text": "- 1964, at Stanleyville, with the 1st Parachute Battalion."
+ },
+ {
+  "where": "page:tour-humanitarian-operations:body",
+  "text": "- 1974, in the Sahel."
+ },
+ {
+  "where": "page:tour-humanitarian-operations:body",
+  "text": "- 1978, in Shaba (Kolwezi)."
+ },
+ {
+  "where": "page:tour-humanitarian-operations:body",
+  "text": "- 1990, in Rwanda."
+ },
+ {
+  "where": "page:tour-humanitarian-operations:body",
+  "text": "- 1991, in Zaire."
+ },
+ {
+  "where": "page:tour-humanitarian-operations:body",
+  "text": "On display: equipment brought back from these operations, and a field kitchen for 300 people."
+ },
+ {
+  "where": "page:tour-humanitarian-operations:alt",
+  "text": "A field kitchen on wheels"
+ },
+ {
+  "where": "page:tour-humanitarian-operations:caption",
+  "text": "A field kitchen for 300 people"
+ },
+ {
+  "where": "page:tour-humanitarian-operations:eyebrow",
+  "text": "Next: room 7"
+ },
+ {
+  "where": "page:tour-united-nations:title",
+  "text": "Room 7: The United Nations"
+ },
+ {
+  "where": "page:tour-united-nations:meta_title",
+  "text": "The United Nations · Virtual tour"
+ },
+ {
+  "where": "page:tour-united-nations:eyebrow",
+  "text": "Virtual tour · Room 7"
+ },
+ {
+  "where": "page:tour-united-nations:image_credit",
+  "text": "Captured weapons, including a Soviet 12.7 mm heavy machine gun"
+ },
+ {
+  "where": "page:tour-united-nations:body",
+  "text": "In 1993 the 2nd Commando Battalion, the Para-Commando Artillery Battery, the Para-Commando Anti-Tank Company and the 14th Para-Commando Engineer Company took part in UNOSOM I and UNOSOM II in Somalia under the United Nations, wearing the blue beret."
+ },
+ {
+  "where": "page:tour-united-nations:body",
+  "text": "In March 1994 the 2nd Commando Battalion relieved the 1st Parachute Battalion in Rwanda for the UNAMIR mission. On 7 April, ten commandos of the mortar platoon were murdered by soldiers of the Rwandan army: Lt Th. Lotin, 1Sgt Y. Leroy, Cpl B. Bassinne, Cpl A. Debatty, Cpl Ch. Dupont, Cpl S. Lhoir, Cpl B. Meaux, Cpl L. Plescia, Cpl Ch. Renwa and Cpl M. Uyttebroeck. A memorial to them stands in this room."
+ },
+ {
+  "where": "page:tour-united-nations:body",
+  "text": "In 1999 the 2nd Commando Battalion, the Para-Commando Artillery Battery, the 14th Para-Commando Engineer Company and the 210th Para-Commando Logistics Company took part in NATO's operation Allied Harbour in Albania and Kosovo. In March 2003 the battalion brought back from Kosovo a German PAK 38 anti-tank gun from the Second World War, kept by the Yugoslav army. Few examples remain."
+ },
+ {
+  "where": "page:tour-united-nations:alt",
+  "text": "Memorial to the ten commandos killed in Kigali in 1994"
+ },
+ {
+  "where": "page:tour-united-nations:caption",
+  "text": "The memorial to the ten commandos of Kigali"
+ },
+ {
+  "where": "page:tour-united-nations:alt",
+  "text": "An AS24 tricycle vehicle"
+ },
+ {
+  "where": "page:tour-united-nations:caption",
+  "text": "AS24 vehicle, used in the battalions from 1964 to 1998"
+ },
+ {
+  "where": "page:tour-united-nations:alt",
+  "text": "German PAK 38 anti-tank gun brought back from Kosovo"
+ },
+ {
+  "where": "page:tour-united-nations:caption",
+  "text": "The PAK 38 anti-tank gun from Kosovo"
+ },
+ {
+  "where": "page:tour-united-nations:eyebrow",
+  "text": "Next: room 8"
+ },
+ {
+  "where": "page:tour-the-development:title",
+  "text": "Room 8: The development"
+ },
+ {
+  "where": "page:tour-the-development:meta_title",
+  "text": "The development · Virtual tour"
+ },
+ {
+  "where": "page:tour-the-development:eyebrow",
+  "text": "Virtual tour · Room 8"
+ },
+ {
+  "where": "page:tour-the-development:image_credit",
+  "text": "A 105 mm howitzer"
+ },
+ {
+  "where": "page:tour-the-development:body",
+  "text": "After the African period the Para-Commando Regiment was given a larger role in Europe. The 2nd Commando Battalion grew to three rifle companies. The Para-Commando Anti-Tank Company (green beret) was created in 1963 and the Para-Commando Artillery Battery (green beret) in 1973."
+ },
+ {
+  "where": "page:tour-the-development:body",
+  "text": "In 1992 the Para-Commando Regiment, by then a brigade, created the 14th Para-Commando Engineer Company, and in 1994 the 210th Para-Commando Logistics Company and the 35th Para-Commando Anti-Aircraft Battery, which also adopted the commando traditions. Successive reorganisations of the army later disbanded all these support units."
+ },
+ {
+  "where": "page:tour-the-development:body",
+  "text": "The 105 mm (US) howitzers, built in 1942, equipped the Para-Commando Artillery Battery from 1974 to 1998. One of them stands in this room. Many countries now offer training opportunities, including Benin since 2001."
+ },
+ {
+  "where": "page:tour-the-development:alt",
+  "text": "A dugout canoe brought back from Benin"
+ },
+ {
+  "where": "page:tour-the-development:caption",
+  "text": "A canoe brought back from Benin by the 14th Para-Commando Engineer Company"
+ },
+ {
+  "where": "page:tour-the-development:eyebrow",
+  "text": "Next: room 9"
+ },
+ {
+  "where": "page:tour-vehicles:title",
+  "text": "Room 9: Vehicles"
+ },
+ {
+  "where": "page:tour-vehicles:meta_title",
+  "text": "Vehicles · Virtual tour"
+ },
+ {
+  "where": "page:tour-vehicles:eyebrow",
+  "text": "Virtual tour · Room 9"
+ },
+ {
+  "where": "page:tour-vehicles:image_credit",
+  "text": "The jeep of the commander of the 2nd Commando Battalion"
+ },
+ {
+  "where": "page:tour-vehicles:body",
+  "text": "In the early 1950s, to save the Minerva company, famous before the war for its cars, the Belgian government ordered jeeps built under Land Rover licence for the whole army. For years, the jeep on display was that of the commander of the 2nd Commando Battalion."
+ },
+ {
+  "where": "page:tour-vehicles:body",
+  "text": "In 1976 the Para-Commandos recruited their first female career volunteers."
+ },
+ {
+  "where": "page:tour-vehicles:body",
+  "text": "Since November 2004 the battalion has regularly served on NATO missions in Afghanistan and UN missions in Lebanon. A corner of the museum covers these missions."
+ },
+ {
+  "where": "page:tour-vehicles:alt",
+  "text": "Display about the first female volunteers"
+ },
+ {
+  "where": "page:tour-vehicles:caption",
+  "text": "The first female career volunteers, 1976"
+ },
+ {
+  "where": "page:tour-vehicles:alt",
+  "text": "Display about the missions in Afghanistan"
+ },
+ {
+  "where": "page:tour-vehicles:caption",
+  "text": "The missions in Afghanistan and Lebanon"
+ },
+ {
+  "where": "page:tour-vehicles:eyebrow",
+  "text": "Next: room 10"
+ },
+ {
+  "where": "page:tour-mission-future:title",
+  "text": "Room 10: Mission “Future”"
+ },
+ {
+  "where": "page:tour-mission-future:meta_title",
+  "text": "Mission “Future” · Virtual tour"
+ },
+ {
+  "where": "page:tour-mission-future:eyebrow",
+  "text": "Virtual tour · Room 10"
+ },
+ {
+  "where": "page:tour-mission-future:image_credit",
+  "text": "A model of the fisheries on the river"
+ },
+ {
+  "where": "page:tour-mission-future:body",
+  "text": "From January to June 2004 the 2nd Commando Battalion trained a Congolese brigade in Kisangani (DR Congo), together with specialist instructors, including soldiers from Luxembourg, France and Germany. With rotations of 120 men every two months, the whole battalion returned to Central Africa for the first time since the murder of ten of its men in Kigali in April 1994."
+ },
+ {
+  "where": "page:tour-mission-future:alt",
+  "text": "Mannequin in the uniform of the Special Presidential Security Group"
+ },
+ {
+  "where": "page:tour-mission-future:caption",
+  "text": "Uniform of the Special Presidential Security Group"
+ },
+ {
+  "where": "page:tour-mission-future:eyebrow",
+  "text": "Next: room 11"
+ },
+ {
+  "where": "page:tour-c119:title",
+  "text": "Room 11: AMF(L) and the C-119"
+ },
+ {
+  "where": "page:tour-c119:meta_title",
+  "text": "AMF(L) and the C-119 · Virtual tour"
+ },
+ {
+  "where": "page:tour-c119:eyebrow",
+  "text": "Virtual tour · Room 11"
+ },
+ {
+  "where": "page:tour-c119:image_credit",
+  "text": "A RavAir drop container"
+ },
+ {
+  "where": "page:tour-c119:body",
+  "text": "In 1964 the General Staff gave the Para-Commando Regiment the Belgian contribution to the ACE Mobile Force (Land) in Europe. The commandos took part in many international exercises in Denmark, Italy, Greece and Turkey. AMF(L) was disbanded in 2002."
+ },
+ {
+  "where": "page:tour-c119:body",
+  "text": "For almost twenty years, until 1972, the C-119 Flying Boxcar equipped the 15th Transport Wing of the Belgian Air Force and was used for parachute jumps. A first group of 116 commandos earned their parachute wings in July and August 1954."
+ },
+ {
+  "where": "page:tour-c119:alt",
+  "text": "Mannequins at the door of a C-119 aircraft, ready to jump"
+ },
+ {
+  "where": "page:tour-c119:caption",
+  "text": "The moment of truth: the stick leader waits in the door with the jump instructor"
+ },
+ {
+  "where": "page:tour-c119:eyebrow",
+  "text": "Next: room 12"
+ },
+ {
+  "where": "page:tour-boating:title",
+  "text": "Room 12: Boating"
+ },
+ {
+  "where": "page:tour-boating:meta_title",
+  "text": "Boating · Virtual tour"
+ },
+ {
+  "where": "page:tour-boating:eyebrow",
+  "text": "Virtual tour · Room 12"
+ },
+ {
+  "where": "page:tour-boating:image_credit",
+  "text": "A five-man Zodiac-type dinghy"
+ },
+ {
+  "where": "page:tour-boating:body",
+  "text": "Commandos specialise in amphibious operations. They used, among others, the Mk III assault boat (see room 3C), called the Goatley after the British engineer who designed it, as well as ten-man inflatable boats. After an accident with a Goatley in 1957, only inflatable dinghies were used."
+ },
+ {
+  "where": "page:tour-boating:alt",
+  "text": "An eight-man inflatable dinghy"
+ },
+ {
+  "where": "page:tour-boating:caption",
+  "text": "An eight-man Zodiac-type dinghy"
+ },
+ {
+  "where": "page:tour-boating:eyebrow",
+  "text": "Next: room 13"
+ },
+ {
+  "where": "page:tour-command-post:title",
+  "text": "Room 13: The command post"
+ },
+ {
+  "where": "page:tour-command-post:meta_title",
+  "text": "The command post · Virtual tour"
+ },
+ {
+  "where": "page:tour-command-post:eyebrow",
+  "text": "Virtual tour · Room 13"
+ },
+ {
+  "where": "page:tour-command-post:image_credit",
+  "text": "A command post with its radios"
+ },
+ {
+  "where": "page:tour-command-post:body",
+  "text": "This home-made tent was cut from a larger 40/50 tent to make the command post more mobile: it could be set up against the back of a jeep. Next to it stand a generator for lighting and a range of radios, including the famous AN/GRC-9."
+ },
+ {
+  "where": "page:tour-command-post:alt",
+  "text": "A generator for lighting"
+ },
+ {
+  "where": "page:tour-command-post:alt",
+  "text": "A range of military radios, including the AN/GRC-9"
+ },
+ {
+  "where": "page:tour-command-post:caption",
+  "text": "Radios, including the AN/GRC-9"
+ },
+ {
+  "where": "page:tour-command-post:eyebrow",
+  "text": "Next: room 14"
+ },
+ {
+  "where": "page:tour-first-aid-post:title",
+  "text": "Room 14: First-aid post and 4.2-inch mortar"
+ },
+ {
+  "where": "page:tour-first-aid-post:meta_title",
+  "text": "First-aid post and 4.2-inch mortar · Virtual tour"
+ },
+ {
+  "where": "page:tour-first-aid-post:eyebrow",
+  "text": "Virtual tour · Room 14"
+ },
+ {
+  "where": "page:tour-first-aid-post:body",
+  "text": "The mortar platoon was first equipped with 3-inch mortars (see room 5) and, in the 1950s, with 81 mm mortars and the 4.2-inch mortar shown here in firing position."
+ },
+ {
+  "where": "page:tour-first-aid-post:body",
+  "text": "Next to it is a field first-aid post. Besides giving first aid, it served above all as a collecting point before the wounded were evacuated to the rear."
+ },
+ {
+  "where": "page:tour-first-aid-post:alt",
+  "text": "Reconstruction of a field first-aid post"
+ },
+ {
+  "where": "page:tour-first-aid-post:caption",
+  "text": "A field first-aid post"
+ },
+ {
+  "where": "page:tour-first-aid-post:eyebrow",
+  "text": "Next: room 15"
+ },
+ {
+  "where": "page:tour-walcheren:title",
+  "text": "Room 15: Walcheren"
+ },
+ {
+  "where": "page:tour-walcheren:meta_title",
+  "text": "Walcheren · Virtual tour"
+ },
+ {
+  "where": "page:tour-walcheren:eyebrow",
+  "text": "Virtual tour · Room 15"
+ },
+ {
+  "where": "page:tour-walcheren:image_credit",
+  "text": "The Walcheren bunker"
+ },
+ {
+  "where": "page:tour-walcheren:body",
+  "text": "A reconstruction of a German observation post on Walcheren. The fresco around the bunker was painted free of charge by Marie-Sophie Joie, head of the art school of Vresse-sur-Semois and daughter of 1st Chief Corporal Joie of the Commando Training Centre."
+ },
+ {
+  "where": "page:tour-walcheren:body",
+  "text": "Most of the rusted objects come from excavations by Alexis Laykoff in the area where the commandos of the 4th Troop fought in November 1944."
+ },
+ {
+  "where": "page:tour-walcheren:alt",
+  "text": "Rusted objects excavated on the Walcheren battlefield"
+ },
+ {
+  "where": "page:tour-walcheren:caption",
+  "text": "Objects excavated on the battlefield"
+ },
+ {
+  "where": "page:tour-walcheren:eyebrow",
+  "text": "Next: room 16"
+ },
+ {
+  "where": "page:tour-illustrations:title",
+  "text": "Room 16: Illustrations"
+ },
+ {
+  "where": "page:tour-illustrations:meta_title",
+  "text": "Illustrations · Virtual tour"
+ },
+ {
+  "where": "page:tour-illustrations:eyebrow",
+  "text": "Virtual tour · Room 16"
+ },
+ {
+  "where": "page:tour-illustrations:image_credit",
+  "text": "The corridor and its paintings"
+ },
+ {
+  "where": "page:tour-illustrations:body",
+  "text": "Paintings and collections made by commandos line the corridor."
+ },
+ {
+  "where": "page:tour-illustrations:eyebrow",
+  "text": "Next: room 17"
+ },
+ {
+  "where": "page:tour-field-shelter:title",
+  "text": "Room 17: Field shelter"
+ },
+ {
+  "where": "page:tour-field-shelter:meta_title",
+  "text": "Field shelter · Virtual tour"
+ },
+ {
+  "where": "page:tour-field-shelter:eyebrow",
+  "text": "Virtual tour · Room 17"
+ },
+ {
+  "where": "page:tour-field-shelter:image_credit",
+  "text": "An M56 tent"
+ },
+ {
+  "where": "page:tour-field-shelter:body",
+  "text": "Individual field tents, models 1956, 1970 and 2000."
+ },
+ {
+  "where": "page:tour-field-shelter:alt",
+  "text": "Inauguration of the Commando Regiment quay"
+ },
+ {
+  "where": "page:tour-field-shelter:caption",
+  "text": "The inauguration of the “Commando Regiment” quay"
+ },
+ {
+  "where": "page:tour-field-shelter:eyebrow",
+  "text": "Next: room 18"
+ },
+ {
+  "where": "page:tour-barrack-room:title",
+  "text": "Room 18: The barrack room"
+ },
+ {
+  "where": "page:tour-barrack-room:meta_title",
+  "text": "The barrack room · Virtual tour"
+ },
+ {
+  "where": "page:tour-barrack-room:eyebrow",
+  "text": "Virtual tour · Room 18"
+ },
+ {
+  "where": "page:tour-barrack-room:body",
+  "text": "A reconstruction of part of a barrack room at the Citadel of Namur. The original stove, probably the last one in Belgium, was donated by the 4th CRI in Leopoldsburg. It had to be put out every evening at 22:00, emptied of its still-hot ashes, and could only be lit again at 06:00 the next morning."
+ },
+ {
+  "where": "page:tour-barrack-room:body",
+  "text": "The beds, lockers, table and bench are original. The lamp, from the same period, comes from a room at the Citadel. Next door: the cells."
+ },
+ {
+  "where": "page:tour-barrack-room:alt",
+  "text": "A prison cell"
+ },
+ {
+  "where": "page:tour-barrack-room:caption",
+  "text": "The cells"
+ },
+ {
+  "where": "page:tour-barrack-room:alt",
+  "text": "A prison cell door"
+ },
+ {
+  "where": "page:tour-barrack-room:eyebrow",
+  "text": "End of the tour"
+ },
+ {
+  "where": "page:tour-barrack-room:title",
+  "text": "Come and see it for real"
+ },
+ {
+  "where": "page:tour-barrack-room:body",
+  "text": "The museum is open on Saturdays, by appointment. Entry is free."
+ },
+ {
+  "where": "page:visit:meta_title",
+  "text": "Visit the museum"
+ },
+ {
+  "where": "page:visit:meta_description",
+  "text": "The Commando Museum in Flawinne (Namur) is open on Saturdays from 13:00 to 18:00, by appointment only. Free entry. Groups of ten or more book one month ahead."
+ },
+ {
+  "where": "page:visit:eyebrow",
+  "text": "Visit · Flawinne"
+ },
+ {
+  "where": "page:visit:lead",
+  "text": "The museum is inside the Sous-Lieutenant Thibaut barracks, home of the 2nd Commando Battalion. Visits are by appointment only, and entry is free."
+ },
+ {
+  "where": "page:visit:image_credit",
+  "text": "Entrance of the Sous-Lieutenant Thibaut barracks"
+ },
+ {
+  "where": "page:visit:eyebrow",
+  "text": "Opening hours"
+ },
+ {
+  "where": "page:visit:intro",
+  "text": "Call us to book your visit. When you arrive, report to the guardhouse at the entrance of the barracks."
+ },
+ {
+  "where": "page:visit:label",
+  "text": "Museum"
+ },
+ {
+  "where": "page:visit:value",
+  "text": "Saturdays 13:00–18:00"
+ },
+ {
+  "where": "page:visit:note",
+  "text": "By appointment: +32 474 18 56 18"
+ },
+ {
+  "where": "page:visit:label",
+  "text": "Groups"
+ },
+ {
+  "where": "page:visit:value",
+  "text": "From 10 people"
+ },
+ {
+  "where": "page:visit:note",
+  "text": "Book one month in advance"
+ },
+ {
+  "where": "page:visit:value",
+  "text": "Mondays 09:00–13:00"
+ },
+ {
+  "where": "page:visit:note",
+  "text": "Saturdays 13:30–17:00 by appointment"
+ },
+ {
+  "where": "page:visit:note",
+  "text": "By appointment: +32 496 59 72 62"
+ },
+ {
+  "where": "page:visit:label",
+  "text": "Closed"
+ },
+ {
+  "where": "page:visit:value",
+  "text": "Sundays and public holidays"
+ },
+ {
+  "where": "page:visit:label",
+  "text": "Admission"
+ },
+ {
+  "where": "page:visit:value",
+  "text": "Free"
+ },
+ {
+  "where": "page:visit:address",
+  "text": "**« Musée des Commandos belges » asbl**"
+ },
+ {
+  "where": "page:visit:address",
+  "text": "5020 Namur (Flawinne)"
+ },
+ {
+  "where": "page:visit:address",
+  "text": "[cdomuseum@skynet.be](mailto:cdomuseum@skynet.be)"
+ },
+ {
+  "where": "page:visit:link",
+  "text": "Open in Google Maps"
+ },
+ {
+  "where": "page:visit:eyebrow",
+  "text": "Getting here"
+ },
+ {
+  "where": "page:visit:title",
+  "text": "How to reach Flawinne"
+ },
+ {
+  "where": "page:visit:question",
+  "text": "By public transport"
+ },
+ {
+  "where": "page:visit:answer",
+  "text": "Take the train to Namur station. Outside the station, turn right to platform A (about 20 m) and take TEC bus line A towards Belgrade. Buses run roughly every fifteen minutes and the ride takes fifteen minutes. Get off at the “Casernes” stop, 100 m from the barracks entrance."
+ },
+ {
+  "where": "page:visit:question",
+  "text": "By car"
+ },
+ {
+  "where": "page:visit:answer",
+  "text": "Flawinne lies just west of Namur. Drive to Rue Joseph Durieux 80, 5020 Flawinne, and report to the guardhouse at the barracks gate."
+ },
+ {
+  "where": "page:visit:question",
+  "text": "Can I visit with a group?"
+ },
+ {
+  "where": "page:visit:answer",
+  "text": "Yes. Group visits are for at least ten people and must be booked one month in advance. Call +32 474 18 56 18 or email [cdomuseum@skynet.be](mailto:cdomuseum@skynet.be)."
+ },
+ {
+  "where": "page:visit:question",
+  "text": "Why do I need an appointment?"
+ },
+ {
+  "where": "page:visit:answer",
+  "text": "The museum is located inside an active military barracks. Every visit has to be announced so that the guardhouse can let you in."
+ },
+ {
+  "where": "page:visit:eyebrow",
+  "text": "Before you come"
+ },
+ {
+  "where": "page:visit:title",
+  "text": "Make the most of your visit"
+ },
+ {
+  "where": "page:visit:title",
+  "text": "Preview the rooms"
+ },
+ {
+  "where": "page:visit:body",
+  "text": "See what awaits you in each of the eighteen rooms."
+ },
+ {
+  "where": "page:visit:alt",
+  "text": "The museum shop at the end of the visit, with books and souvenirs"
+ },
+ {
+  "where": "page:visit:title",
+  "text": "Books and souvenirs"
+ },
+ {
+  "where": "page:visit:body",
+  "text": "Berets, badges, books and the commando dagger."
+ },
+ {
+  "where": "page:visit:kicker",
+  "text": "Research"
+ },
+ {
+  "where": "page:visit:body",
+  "text": "Prepare your research in the library and photo archive."
+ },
+ {
+  "where": "page:shop:meta_title",
+  "text": "The museum shop"
+ },
+ {
+  "where": "page:shop:meta_description",
+  "text": "Books about the Belgian Commandos, berets, badges, the commando dagger and souvenirs. The museum shop in Flawinne is open on Mondays and, by appointment, on Saturdays."
+ },
+ {
+  "where": "page:shop:alt",
+  "text": "Leaflet with the latest items in the museum shop: books, badges, berets and souvenirs"
+ },
+ {
+  "where": "page:shop:eyebrow",
+  "text": "The Museum · Shop"
+ },
+ {
+  "where": "page:shop:title",
+  "text": "The shop"
+ },
+ {
+  "where": "page:shop:lead",
+  "text": "The exploits of the commandos have always fascinated the press and publishers. The shop offers a wide range of books about them, along with badges, berets and souvenirs."
+ },
+ {
+  "where": "page:shop:title",
+  "text": "When the shop is open"
+ },
+ {
+  "where": "page:shop:intro",
+  "text": "When you arrive, report to the guardhouse. Items can also be sent by post for the cost of shipping, except daggers and berets: contact us."
+ },
+ {
+  "where": "page:shop:label",
+  "text": "Monday"
+ },
+ {
+  "where": "page:shop:label",
+  "text": "Saturday"
+ },
+ {
+  "where": "page:shop:note",
+  "text": "Call ahead: +32 474 18 56 18"
+ },
+ {
+  "where": "page:shop:label",
+  "text": "Payment"
+ },
+ {
+  "where": "page:shop:value",
+  "text": "Cash or card"
+ },
+ {
+  "where": "page:shop:address",
+  "text": "Or order by email: [cdomuseum@skynet.be](mailto:cdomuseum@skynet.be)"
+ },
+ {
+  "where": "page:shop:text",
+  "text": "Download the price list (PDF)"
+ },
+ {
+  "where": "page:shop:eyebrow",
+  "text": "New in the shop"
+ },
+ {
+  "where": "page:shop:title",
+  "text": "The latest items"
+ },
+ {
+  "where": "page:shop:body",
+  "text": "Browse the latest additions to the shop, or download the full price list to see everything we offer."
+ },
+ {
+  "where": "page:shop:caption",
+  "text": "New in the shop, March 2026"
+ },
+ {
+  "where": "page:shop:text",
+  "text": "Price list (PDF)"
+ },
+ {
+  "where": "page:membership:meta_description",
+  "text": "Support the Commando Museum: become a member of the association « Musée des Commandos – Museum der Commando's » for €15 a year."
+ },
+ {
+  "where": "page:membership:lead",
+  "text": "Join the association that keeps the museum running. Anyone can become a member, whether you served as a commando or simply care about their story."
+ },
+ {
+  "where": "page:membership:eyebrow",
+  "text": "Membership"
+ },
+ {
+  "where": "page:membership:statement",
+  "text": "**€15 a year** keeps the history of the Belgian Commandos alive."
+ },
+ {
+  "where": "page:membership:body",
+  "text": "Members support the work of the volunteers, receive the invitation to the general assembly and have free access to the reading room of the documentation centre."
+ },
+ {
+  "where": "page:membership:label",
+  "text": "Annual membership fee"
+ },
+ {
+  "where": "page:membership:label",
+  "text": "Reading room for members (otherwise €5)"
+ },
+ {
+  "where": "page:membership:eyebrow",
+  "text": "How to join"
+ },
+ {
+  "where": "page:membership:title",
+  "text": "Three steps"
+ },
+ {
+  "where": "page:membership:question",
+  "text": "1. Fill in the form"
+ },
+ {
+  "where": "page:membership:answer",
+  "text": "Download and print the membership form, or email us your name, first name, address, email address and phone number. Tell us if you are a (former) commando, and in which unit and period you served."
+ },
+ {
+  "where": "page:membership:question",
+  "text": "2. Pay the membership fee"
+ },
+ {
+  "where": "page:membership:answer",
+  "text": "Transfer €15 to account **BE55 0012 8958 0644** of « Musée des Commandos – Museum der Commando's » asbl, Caserne SLt Thibaut, 5020 Flawinne."
+ },
+ {
+  "where": "page:membership:question",
+  "text": "3. Send us the form"
+ },
+ {
+  "where": "page:membership:answer",
+  "text": "Email it to [cdomuseum@skynet.be](mailto:cdomuseum@skynet.be), or hand it in at the museum."
+ },
+ {
+  "where": "page:membership:eyebrow",
+  "text": "Download"
+ },
+ {
+  "where": "page:membership:title",
+  "text": "Membership form"
+ },
+ {
+  "where": "page:membership:meta",
+  "text": "PDF, to print and fill in"
+ },
+ {
+  "where": "page:membership:link",
+  "text": "Apply by email"
+ },
+ {
+  "where": "page:membership:eyebrow",
+  "text": "Other ways to help"
+ },
+ {
+  "where": "page:membership:title",
+  "text": "Donate an object"
+ },
+ {
+  "where": "page:membership:body",
+  "text": "Uniforms, documents, photographs and equipment help us tell the story."
+ },
+ {
+  "where": "page:membership:link",
+  "text": "Recent gifts"
+ },
+ {
+  "where": "page:membership:body",
+  "text": "Every book and souvenir you buy supports the museum."
+ },
+ {
+  "where": "page:membership:link",
+  "text": "To the shop"
+ },
+ {
+  "where": "page:membership:title",
+  "text": "Read The Commando Dagger"
+ },
+ {
+  "where": "page:membership:body",
+  "text": "The museum's magazine, in French and Dutch."
+ },
+ {
+  "where": "page:membership:link",
+  "text": "Latest issues"
+ },
+ {
+  "where": "page:commando-dagger-magazine:meta_title",
+  "text": "The Commando Dagger magazine"
+ },
+ {
+  "where": "page:commando-dagger-magazine:meta_description",
+  "text": "Read the latest issues of The Commando Dagger, the magazine of the Commando Museum in Flawinne, in French and Dutch."
+ },
+ {
+  "where": "page:commando-dagger-magazine:alt",
+  "text": "Cover of The Commando Dagger"
+ },
+ {
+  "where": "page:commando-dagger-magazine:eyebrow",
+  "text": "The Museum · Magazine"
+ },
+ {
+  "where": "page:commando-dagger-magazine:lead",
+  "text": "The museum's own magazine, with news from the museum, history and stories from the commando family. It is published in French and Dutch."
+ },
+ {
+  "where": "page:commando-dagger-magazine:title",
+  "text": "Read online"
+ },
+ {
+  "where": "page:commando-dagger-magazine:kicker",
+  "text": "No. 49"
+ },
+ {
+  "where": "page:commando-dagger-magazine:title",
+  "text": "The Commando Dagger 49"
+ },
+ {
+  "where": "page:commando-dagger-magazine:text",
+  "text": "Read (PDF)"
+ },
+ {
+  "where": "page:commando-dagger-magazine:alt",
+  "text": "Cover of The Commando Dagger no. 48"
+ },
+ {
+  "where": "page:commando-dagger-magazine:kicker",
+  "text": "No. 48"
+ },
+ {
+  "where": "page:commando-dagger-magazine:title",
+  "text": "The Commando Dagger 48"
+ },
+ {
+  "where": "page:commando-dagger-magazine:alt",
+  "text": "Cover of The Commando Dagger no. 46"
+ },
+ {
+  "where": "page:commando-dagger-magazine:kicker",
+  "text": "No. 46"
+ },
+ {
+  "where": "page:commando-dagger-magazine:title",
+  "text": "The Commando Dagger 46"
+ },
+ {
+  "where": "page:commando-dagger-magazine:alt",
+  "text": "Cover of The Commando Dagger no. 45"
+ },
+ {
+  "where": "page:commando-dagger-magazine:kicker",
+  "text": "No. 45"
+ },
+ {
+  "where": "page:commando-dagger-magazine:title",
+  "text": "The Commando Dagger 45"
+ },
+ {
+  "where": "page:photos-and-videos:meta_description",
+  "text": "Photo albums and videos about the Belgian Commandos: the assault on Walcheren in 1944, the Kigali commemoration and the change of command of the 2nd Commando Battalion."
+ },
+ {
+  "where": "page:photos-and-videos:alt",
+  "text": "Commemoration at the Camp Kigali memorial, 2017"
+ },
+ {
+  "where": "page:photos-and-videos:title",
+  "text": "In pictures"
+ },
+ {
+  "where": "page:photos-and-videos:lead",
+  "text": "Archive films and photo albums from the commando family."
+ },
+ {
+  "where": "page:photos-and-videos:alt",
+  "text": "The standard of the 2nd Commando Battalion on parade"
+ },
+ {
+  "where": "page:photos-and-videos:image_credit",
+  "text": "The standard of the 2nd Commando Battalion, 2015"
+ },
+ {
+  "where": "page:photos-and-videos:eyebrow",
+  "text": "Videos"
+ },
+ {
+  "where": "page:photos-and-videos:title",
+  "text": "Archive film"
+ },
+ {
+  "where": "page:photos-and-videos:title",
+  "text": "Assault on Walcheren, November 1944"
+ },
+ {
+  "where": "page:photos-and-videos:description",
+  "text": "The 4th Troop joined the first assault wave on Walcheren on 1 November 1944."
+ },
+ {
+  "where": "page:photos-and-videos:eyebrow",
+  "text": "More videos"
+ },
+ {
+  "where": "page:photos-and-videos:title",
+  "text": "Elsewhere"
+ },
+ {
+  "where": "page:photos-and-videos:description",
+  "text": "Newsreel footage on British Pathé."
+ },
+ {
+  "where": "page:photos-and-videos:link",
+  "text": "britishpathe.com"
+ },
+ {
+  "where": "page:photos-and-videos:description",
+  "text": "Recruitment film of the 2nd Commando Battalion."
+ },
+ {
+  "where": "page:photos-and-videos:text",
+  "text": "Watch the video (MP4)"
+ },
+ {
+  "where": "page:photos-and-videos:eyebrow",
+  "text": "Photo albums"
+ },
+ {
+  "where": "page:photos-and-videos:title",
+  "text": "Albums"
+ },
+ {
+  "where": "page:photos-and-videos:kicker",
+  "text": "10 April 2017"
+ },
+ {
+  "where": "page:photos-and-videos:title",
+  "text": "Kigali commemoration"
+ },
+ {
+  "where": "page:photos-and-videos:body",
+  "text": "Tribute to the Belgian victims of 1994, and in particular our ten commandos."
+ },
+ {
+  "where": "page:photos-and-videos:link",
+  "text": "View the album"
+ },
+ {
+  "where": "page:photos-and-videos:alt",
+  "text": "The new commander leads the parade of the 2nd Commando Battalion"
+ },
+ {
+  "where": "page:photos-and-videos:kicker",
+  "text": "7 October 2015"
+ },
+ {
+  "where": "page:photos-and-videos:title",
+  "text": "Change of command, 2nd Commando Battalion"
+ },
+ {
+  "where": "page:photos-and-videos:body",
+  "text": "Lieutenant-Colonel Pierard hands over the battalion to Lieutenant-Colonel Linotte."
+ },
+ {
+  "where": "page:album-kigali-2017:title",
+  "text": "Kigali, 10 April 2017"
+ },
+ {
+  "where": "page:album-kigali-2017:meta_title",
+  "text": "Commemoration in Kigali, 2017"
+ },
+ {
+  "where": "page:album-kigali-2017:meta_description",
+  "text": "On 10 April 2017 the Belgian Embassy in Rwanda paid tribute to the Belgian victims of 1994, and in particular the ten commandos, at the Camp Kigali memorial."
+ },
+ {
+  "where": "page:album-kigali-2017:eyebrow",
+  "text": "Photo album · Kigali"
+ },
+ {
+  "where": "page:album-kigali-2017:title",
+  "text": "Commemoration at Camp Kigali"
+ },
+ {
+  "where": "page:album-kigali-2017:body",
+  "text": "April in Rwanda is a month of intense memories and emotion throughout the country. On 10 April, the Belgian Embassy, under the aegis of the Defence Attaché, Lieutenant-Colonel Alain Lambert, held the now traditional ceremony at the Camp Kigali memorial in tribute to the Belgian victims, and in particular to our commandos."
+ },
+ {
+  "where": "page:album-kigali-2017:body",
+  "text": "The Belgian Ambassador to Rwanda welcomed a large audience, mainly diplomatic representatives and Belgian residents, as well as a sizeable delegation of the Rwandan Defence Forces, a sign of calmer relations."
+ },
+ {
+  "where": "page:album-kigali-2017:body",
+  "text": "The memorial is perfectly maintained. Outside its protected perimeter, however, the surroundings are changing fast: the site no longer has a military role and now belongs to the University of Rwanda and hosts temporary exhibitions."
+ },
+ {
+  "where": "page:album-kigali-2017:body",
+  "text": "The ceremony highlighted the remarkable work of the Institute of Veterans, a booklet and DVD, and the substantial book by the commander of the 15th Wing in 1994. A permanent display case will soon house these contributions to remembrance. The wreath laid by our veterans' associations found its place at the foot of the memorial plaque."
+ },
+ {
+  "where": "page:album-kigali-2017:eyebrow",
+  "text": "Photos"
+ },
+ {
+  "where": "page:album-kigali-2017:title",
+  "text": "The ceremony"
+ },
+ {
+  "where": "page:album-kigali-2017:alt",
+  "text": "Lieutenant-Colonel Lambert speaking at the ceremony"
+ },
+ {
+  "where": "page:album-kigali-2017:caption",
+  "text": "Address by Lieutenant-Colonel Lambert"
+ },
+ {
+  "where": "page:album-kigali-2017:alt",
+  "text": "The commemoration at the Camp Kigali memorial"
+ },
+ {
+  "where": "page:album-kigali-2017:caption",
+  "text": "Ceremony in Kigali, 2017"
+ },
+ {
+  "where": "page:album-kigali-2017:alt",
+  "text": "Guests arriving at the ceremony"
+ },
+ {
+  "where": "page:album-kigali-2017:caption",
+  "text": "Welcoming the guests"
+ },
+ {
+  "where": "page:album-kigali-2017:eyebrow",
+  "text": "Remembrance"
+ },
+ {
+  "where": "page:album-kigali-2017:title",
+  "text": "The ten commandos of Kigali"
+ },
+ {
+  "where": "page:album-kigali-2017:body",
+  "text": "Read about the commandos who died in operations and on duty."
+ },
+ {
+  "where": "page:album-kigali-2017:link",
+  "text": "In memoriam"
+ },
+ {
+  "where": "page:album-kigali-2017:link",
+  "text": "All photos and videos"
+ },
+ {
+  "where": "page:album-handover-2015:title",
+  "text": "Change of command, 7 October 2015"
+ },
+ {
+  "where": "page:album-handover-2015:meta_title",
+  "text": "Change of command of the 2nd Commando Battalion, 2015"
+ },
+ {
+  "where": "page:album-handover-2015:meta_description",
+  "text": "On 7 October 2015 Lieutenant-Colonel Pierard handed over the 2nd Commando Battalion to Lieutenant-Colonel Frédéric Linotte at the Sous-Lieutenant Thibaut barracks in Flawinne."
+ },
+ {
+  "where": "page:album-handover-2015:eyebrow",
+  "text": "Photo album · Flawinne"
+ },
+ {
+  "where": "page:album-handover-2015:title",
+  "text": "Change of command"
+ },
+ {
+  "where": "page:album-handover-2015:lead",
+  "text": "2nd Commando Battalion, 7 October 2015"
+ },
+ {
+  "where": "page:album-handover-2015:body",
+  "text": "On 7 October 2015 the 2nd Commando Battalion held a change of command at the Sous-Lieutenant Thibaut barracks in Flawinne. Lieutenant-Colonel BEM Pierard handed over the battalion to Lieutenant-Colonel BEM Frédéric Linotte."
+ },
+ {
+  "where": "page:album-handover-2015:body",
+  "text": "At the initiative of Alexis Laykoff, platoons A and B of the 1st Company of 1959 received their A parachute certificates from Colonel BEM Devogelaere and Lieutenant-Colonel BEM Pierard, 56 years late. Better late than never!"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "Former commanding officers are welcomed"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "Welcoming the former commanding officers"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "Colonel Peter Devogelaere"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "Colonel BEM Peter Devogelaere, commander of the Light Brigade"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "Lieutenant-Colonel Pierard speaking"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "Address by Lieutenant-Colonel BEM Pierard"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "Lieutenant-Colonel Pierard salutes his battalion"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "Lieutenant-Colonel BEM Pierard salutes his battalion"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "The handover of command"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "Lieutenant-Colonel Linotte"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "Lieutenant-Colonel BEM Linotte"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "Lieutenant-Colonel Linotte leads the parade"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "Lieutenant-Colonel BEM Linotte at the head of the parade"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "Platoon A of the 12th Company"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "12th Company, platoon A"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "Platoon B of the 12th Company"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "12th Company, platoon B"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "The standard of the 2nd Commando Battalion"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "Chief Warrant Officer Roland Vandervelde receives a medal"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "Chief Warrant Officer Roland Vandervelde receives the medal for 30 years of service in the Light Brigade from Colonel Devogelaere"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "A veteran receives his parachute certificate"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "Chief Warrant Officer Henri Gregoire receives his parachute certificate"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "Warrant Officer Michel Gregoire receives his parachute certificate"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "Chief Corporal Didier Pestiaux receives his parachute certificate"
+ },
+ {
+  "where": "page:album-handover-2015:alt",
+  "text": "The ceremony continues"
+ },
+ {
+  "where": "page:album-handover-2015:caption",
+  "text": "After the certificates, the ceremony continues"
+ },
+ {
+  "where": "page:album-handover-2015:eyebrow",
+  "text": "The battalion"
+ },
+ {
+  "where": "page:album-handover-2015:title",
+  "text": "The 2nd Commando Battalion"
+ },
+ {
+  "where": "page:album-handover-2015:body",
+  "text": "Direct heir of the 4th Troop, and the home of the museum."
+ },
+ {
+  "where": "page:album-handover-2015:link",
+  "text": "Read its history"
+ },
+ {
+  "where": "page:links:meta_description",
+  "text": "Links to the Belgian Defence, military museums, para-commando veterans' associations and tourism in the Namur region."
+ },
+ {
+  "where": "page:links:title",
+  "text": "Friends and partners"
+ },
+ {
+  "where": "page:links:lead",
+  "text": "Defence, military museums, veterans' associations and the region around Namur."
+ },
+ {
+  "where": "page:links:description",
+  "text": "Official website of the Belgian Armed Forces."
+ },
+ {
+  "where": "page:links:link",
+  "text": "mil.be"
+ },
+ {
+  "where": "page:links:description",
+  "text": "The army museum in Brussels."
+ },
+ {
+  "where": "page:links:link",
+  "text": "klm-mra.be"
+ },
+ {
+  "where": "page:links:description",
+  "text": "The museum of the Belgian paratroopers, at the Citadel of Diest."
+ },
+ {
+  "where": "page:links:link",
+  "text": "pegasus-museum.be"
+ },
+ {
+  "where": "page:links:description",
+  "text": "Museum der Belgischen Streitkräfte in Deutschland."
+ },
+ {
+  "where": "page:links:link",
+  "text": "museum-bsd.de"
+ },
+ {
+  "where": "page:links:description",
+  "text": "At Florennes air base."
+ },
+ {
+  "where": "page:links:link",
+  "text": "museespitfire.be"
+ },
+ {
+  "where": "page:links:description",
+  "text": "Website of the Belgian Engineer School museum."
+ },
+ {
+  "where": "page:links:link",
+  "text": "geniemus.be"
+ },
+ {
+  "where": "page:links:description",
+  "text": "Centre Liégeois d'Histoire et d'Archéologie Militaires."
+ },
+ {
+  "where": "page:links:link",
+  "text": "clham.org"
+ },
+ {
+  "where": "page:links:description",
+  "text": "Portal of the museums of Wallonia."
+ },
+ {
+  "where": "page:links:link",
+  "text": "lesmuseesenwallonie.be"
+ },
+ {
+  "where": "page:links:description",
+  "text": "Website about the Para-Commandos of the Belgian army."
+ },
+ {
+  "where": "page:links:link",
+  "text": "paracommando.com"
+ },
+ {
+  "where": "page:links:description",
+  "text": "Veterans' association of 1 Para."
+ },
+ {
+  "where": "page:links:link",
+  "text": "ktsa.be"
+ },
+ {
+  "where": "page:links:description",
+  "text": "National Para-Commando veterans' association."
+ },
+ {
+  "where": "page:links:link",
+  "text": "anpcv.be"
+ },
+ {
+  "where": "page:links:description",
+  "text": "National union of parachutists."
+ },
+ {
+  "where": "page:links:link",
+  "text": "union-nat-parachutistes.org"
+ },
+ {
+  "where": "page:links:description",
+  "text": "Veterans of the Chasseurs Ardennais."
+ },
+ {
+  "where": "page:links:link",
+  "text": "fraternellechasseursardennais.be"
+ },
+ {
+  "where": "page:links:description",
+  "text": "Website of the 20th Artillery Battalion (20A)."
+ },
+ {
+  "where": "page:links:link",
+  "text": "20a.be"
+ },
+ {
+  "where": "page:links:description",
+  "text": "The commandos at the Citadel of Namur."
+ },
+ {
+  "where": "page:links:link",
+  "text": "cdomuseum.be"
+ },
+ {
+  "where": "page:links:description",
+  "text": "How the commandos were trained."
+ },
+ {
+  "where": "page:links:description",
+  "text": "Portal for military collectors."
+ },
+ {
+  "where": "page:links:link",
+  "text": "abcollection.com"
+ },
+ {
+  "where": "page:links:description",
+  "text": "Official website of the City of Namur."
+ },
+ {
+  "where": "page:links:link",
+  "text": "namur.be"
+ },
+ {
+  "where": "page:links:description",
+  "text": "Tourism in Wallonia and Brussels."
+ },
+ {
+  "where": "page:links:link",
+  "text": "visitwallonia.be"
+ }
+]

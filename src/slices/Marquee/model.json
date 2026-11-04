@@ -1,0 +1,26 @@
+{
+  "id": "marquee",
+  "type": "SharedSlice",
+  "name": "Marquee",
+  "description": "Scrolling band of words",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Words separated by \" / \"",
+      "imageUrl": "",
+      "primary": {
+        "words": {
+          "type": "Text",
+          "config": {
+            "label": "Words",
+            "placeholder": "Courage / Moed / Fidélité"
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

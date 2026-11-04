@@ -1,0 +1,29 @@
+{
+ "fr-be": {
+  "units": "unites",
+  "2nd-commando-battalion": "2eme-bataillon-de-commandos",
+  "commando-training-centre": "centre-d-entrainement-de-commandos",
+  "4th-commando-battalion": "4eme-bataillon-commando",
+  "6th-commando-battalion": "6eme-bataillon-commando",
+  "anti-tank-company": "compagnie-antichar",
+  "field-artillery-battery": "batterie-d-artillerie-de-campagne",
+  "14th-engineer-company": "14eme-compagnie-de-genie",
+  "35th-anti-aircraft-battery": "35eme-batterie-antiaerienne",
+  "210th-logistics-company": "210eme-compagnie-logistique",
+  "bibliography": "bibliographie"
+ },
+ "nl-be": {
+  "units": "eenheden",
+  "2nd-commando-battalion": "2de-bataljon-commando",
+  "commando-training-centre": "commando-trainingscentrum",
+  "4th-commando-battalion": "4de-bataljon-commando",
+  "6th-commando-battalion": "6de-bataljon-commando",
+  "anti-tank-company": "compagnie-antitank",
+  "field-artillery-battery": "veldartilleriebatterij",
+  "14th-engineer-company": "14de-compagnie-genie",
+  "35th-anti-aircraft-battery": "35ste-luchtdoelbatterij",
+  "210th-logistics-company": "210de-logistieke-compagnie",
+  "bibliography": "bibliografie",
+  "file:il-etait-une-fois-latk-ok.pdf": "er-was-eens-de-atkokk.pdf"
+ }
+}

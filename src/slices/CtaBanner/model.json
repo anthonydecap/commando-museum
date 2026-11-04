@@ -1,0 +1,68 @@
+{
+  "id": "cta_banner",
+  "type": "SharedSlice",
+  "name": "CtaBanner",
+  "description": "Call to action band",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "eyebrow": {
+          "type": "Text",
+          "config": {
+            "label": "Eyebrow",
+            "placeholder": "Small label above the title"
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "body": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Body",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em,hyperlink"
+          }
+        },
+        "image": {
+          "type": "Image",
+          "config": {
+            "label": "Background image (optional)",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "primary_link": {
+          "type": "Link",
+          "config": {
+            "label": "Primary button",
+            "allowText": true,
+            "allowTargetBlank": true,
+            "select": null
+          }
+        },
+        "secondary_link": {
+          "type": "Link",
+          "config": {
+            "label": "Secondary button",
+            "allowText": true,
+            "allowTargetBlank": true,
+            "select": null
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

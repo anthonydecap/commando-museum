@@ -1,0 +1,79 @@
+{
+  "id": "video_list",
+  "type": "SharedSlice",
+  "name": "VideoList",
+  "description": "YouTube videos that load on click",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "YouTube videos that load on click",
+      "imageUrl": "",
+      "primary": {
+        "eyebrow": {
+          "type": "Text",
+          "config": {
+            "label": "Eyebrow",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "Text",
+          "config": {
+            "label": "Title",
+            "placeholder": ""
+          }
+        },
+        "intro": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Intro",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,em,hyperlink"
+          }
+        },
+        "videos": {
+          "type": "Group",
+          "config": {
+            "label": "Videos",
+            "repeat": true,
+            "fields": {
+              "youtube_url": {
+                "type": "Text",
+                "config": {
+                  "label": "YouTube URL",
+                  "placeholder": "https://youtu.be/..."
+                }
+              },
+              "title": {
+                "type": "Text",
+                "config": {
+                  "label": "Title",
+                  "placeholder": ""
+                }
+              },
+              "meta": {
+                "type": "Text",
+                "config": {
+                  "label": "Year or label",
+                  "placeholder": ""
+                }
+              },
+              "description": {
+                "type": "Text",
+                "config": {
+                  "label": "Description",
+                  "placeholder": ""
+                }
+              }
+            }
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}
